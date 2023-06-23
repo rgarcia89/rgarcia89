@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (2 weeks ago)
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (3 weeks ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 month ago)
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (1 month ago)
 - [DE-CIX/udp-dtls-wrapper](https://github.com/DE-CIX/udp-dtls-wrapper) - UDP-DTLS wrapper written in Golang. Takes UDP traffic and wraps it into DTLS. Main purpose is IPFIX Export currently. (2 months ago)
@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.18.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.18.1), 1 day ago) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.3.19](https://github.com/goharbor/harbor-helm/releases/tag/v1.3.19), 2 weeks ago) - The helm chart to deploy Harbor
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.19.2](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.19.2), 3 weeks ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.0](https://github.com/kyverno/kyverno/releases/tag/v1.10.0), 3 weeks ago) - Kubernetes Native Policy Management
