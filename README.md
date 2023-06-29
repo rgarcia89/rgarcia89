@@ -19,16 +19,16 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.1.0), 1 day ago) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.3.19](https://github.com/goharbor/harbor-helm/releases/tag/v1.3.19), 3 weeks ago) - The helm chart to deploy Harbor
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.19.2](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.19.2), 4 weeks ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.0](https://github.com/kyverno/kyverno/releases/tag/v1.10.0), 4 weeks ago) - Kubernetes Native Policy Management
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.0](https://github.com/kyverno/kyverno/releases/tag/v1.10.0), 1 month ago) - Kubernetes Native Policy Management
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.31.0](https://github.com/thanos-io/thanos/releases/tag/v0.31.0), 3 months ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 
 #### 🔨 My recent Pull Requests
 
-- [Allow setting verbs for clusterrole extraresources on backgroundController](https://github.com/kyverno/kyverno/pull/7380) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (3 weeks ago)
-- [Add missing delete verb to admission cleanup clusterrole](https://github.com/kyverno/kyverno/pull/7375) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (3 weeks ago)
+- [Allow setting verbs for clusterrole extraresources on backgroundController](https://github.com/kyverno/kyverno/pull/7380) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (4 weeks ago)
+- [Add missing delete verb to admission cleanup clusterrole](https://github.com/kyverno/kyverno/pull/7375) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (4 weeks ago)
 - [add de-cix as adopter](https://github.com/thanos-io/thanos/pull/6386) on [thanos-io/thanos](https://github.com/thanos-io/thanos) (1 month ago)
 - [Install PodDistruptionBudgets when replica greater than 1](https://github.com/goharbor/harbor-helm/pull/1509) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (1 month ago)
 - [AKS - Create dedicated kubernetes service to expose CoreDNS metrics](https://github.com/prometheus-operator/kube-prometheus/pull/2107) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (1 month ago)
@@ -38,7 +38,7 @@ Welcome to my GitHub profile!
 - [kube-green/kube-green](https://github.com/kube-green/kube-green) - A K8s operator to reduce CO2 footprint of your clusters (2 weeks ago)
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME (3 weeks ago)
 - [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider) - HashiCorp Vault Provider for Secret Store CSI Driver (3 weeks ago)
-- [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) - Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files. (4 weeks ago)
+- [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) - Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files. (1 month ago)
 - [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere) -  (1 month ago)
 - [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances (1 month ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 month ago)
