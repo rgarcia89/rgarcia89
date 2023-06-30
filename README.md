@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (3 weeks ago)
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (4 weeks ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 month ago)
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (1 month ago)
 - [DE-CIX/udp-dtls-wrapper](https://github.com/DE-CIX/udp-dtls-wrapper) - UDP-DTLS wrapper written in Golang. Takes UDP traffic and wraps it into DTLS. Main purpose is IPFIX Export currently. (2 months ago)
@@ -19,10 +19,10 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.1-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.10.1-rc.1), today) - Kubernetes Native Policy Management
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.1.0), 1 day ago) - Prometheus community Helm charts
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.1-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.10.1-rc.1), 1 day ago) - Kubernetes Native Policy Management
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.1.0), 2 days ago) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.3.19](https://github.com/goharbor/harbor-helm/releases/tag/v1.3.19), 3 weeks ago) - The helm chart to deploy Harbor
-- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.19.2](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.19.2), 4 weeks ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
+- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.19.2](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.19.2), 1 month ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.31.0](https://github.com/thanos-io/thanos/releases/tag/v0.31.0), 3 months ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 
 #### 🔨 My recent Pull Requests
