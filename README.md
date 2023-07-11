@@ -19,9 +19,9 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.7.0), today) - Prometheus community Helm charts
-- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.19.4](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.19.4), 4 days ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.1](https://github.com/kyverno/kyverno/releases/tag/v1.10.1), 4 days ago) - Kubernetes Native Policy Management
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.7.0), 1 day ago) - Prometheus community Helm charts
+- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.19.4](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.19.4), 5 days ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.1](https://github.com/kyverno/kyverno/releases/tag/v1.10.1), 5 days ago) - Kubernetes Native Policy Management
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.3.19](https://github.com/goharbor/harbor-helm/releases/tag/v1.3.19), 1 month ago) - The helm chart to deploy Harbor
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.31.0](https://github.com/thanos-io/thanos/releases/tag/v0.31.0), 3 months ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 
@@ -36,7 +36,7 @@ Welcome to my GitHub profile!
 #### ⭐ Recent Stars
 
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement (1 week ago)
-- [kube-green/kube-green](https://github.com/kube-green/kube-green) - A K8s operator to reduce CO2 footprint of your clusters (3 weeks ago)
+- [kube-green/kube-green](https://github.com/kube-green/kube-green) - A K8s operator to reduce CO2 footprint of your clusters (4 weeks ago)
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME (1 month ago)
 - [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider) - HashiCorp Vault Provider for Secret Store CSI Driver (1 month ago)
 - [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) - Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files. (1 month ago)
@@ -44,7 +44,7 @@ Welcome to my GitHub profile!
 - [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances (1 month ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 month ago)
 - [thanos-io/kube-thanos](https://github.com/thanos-io/kube-thanos) - Kubernetes specific configuration for deploying Thanos. (1 month ago)
-- [elastic/integrations](https://github.com/elastic/integrations) - Elastic Integrations (1 month ago)
+- [elastic/integrations](https://github.com/elastic/integrations) - Elastic Integrations (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
