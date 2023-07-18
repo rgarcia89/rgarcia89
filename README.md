@@ -35,6 +35,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [jordemort/traefik-forward-auth](https://github.com/jordemort/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy (today)
+- [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy (today)
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement (2 weeks ago)
 - [kube-green/kube-green](https://github.com/kube-green/kube-green) - A K8s operator to reduce CO2 footprint of your clusters (1 month ago)
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME (1 month ago)
@@ -43,8 +45,6 @@ Welcome to my GitHub profile!
 - [kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere) -  (1 month ago)
 - [microsoft/CBL-Mariner](https://github.com/microsoft/CBL-Mariner) - Linux OS for Azure 1P services and edge appliances (1 month ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (2 months ago)
-- [thanos-io/kube-thanos](https://github.com/thanos-io/kube-thanos) - Kubernetes specific configuration for deploying Thanos. (2 months ago)
-- [elastic/integrations](https://github.com/elastic/integrations) - Elastic Integrations (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
