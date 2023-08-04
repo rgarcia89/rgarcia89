@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.3.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.5.0), today) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.12.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.12.3), 1 week ago) - The helm chart to deploy Harbor
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.2](https://github.com/kyverno/kyverno/releases/tag/v1.10.2), 1 week ago) - Kubernetes Native Policy Management
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.19.4](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.19.4), 4 weeks ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
