@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.3.0), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.3.0), 3 days ago) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.12.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.12.3), 1 week ago) - The helm chart to deploy Harbor
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.2](https://github.com/kyverno/kyverno/releases/tag/v1.10.2), 1 week ago) - Kubernetes Native Policy Management
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.19.4](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.19.4), 1 month ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
@@ -35,8 +35,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [sparxsys/jira-shell-scripts](https://github.com/sparxsys/jira-shell-scripts) - Jira shell scripts (today)
-- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (2 weeks ago)
+- [sparxsys/jira-shell-scripts](https://github.com/sparxsys/jira-shell-scripts) - Jira shell scripts (1 day ago)
+- [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (3 weeks ago)
 - [jordemort/traefik-forward-auth](https://github.com/jordemort/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy (3 weeks ago)
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy (3 weeks ago)
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement (1 month ago)
