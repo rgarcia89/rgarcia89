@@ -19,8 +19,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.3](https://github.com/kyverno/kyverno/releases/tag/v1.10.3), today) - Kubernetes Native Policy Management
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.3.0), 4 days ago) - Prometheus community Helm charts
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.3](https://github.com/kyverno/kyverno/releases/tag/v1.10.3), 1 day ago) - Kubernetes Native Policy Management
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.3.0), 5 days ago) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.12.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.12.3), 2 weeks ago) - The helm chart to deploy Harbor
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.19.4](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.19.4), 1 month ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.31.0](https://github.com/thanos-io/thanos/releases/tag/v0.31.0), 4 months ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -35,12 +35,12 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [sparxsys/jira-shell-scripts](https://github.com/sparxsys/jira-shell-scripts) - Jira shell scripts (2 days ago)
+- [sparxsys/jira-shell-scripts](https://github.com/sparxsys/jira-shell-scripts) - Jira shell scripts (3 days ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (3 weeks ago)
 - [jordemort/traefik-forward-auth](https://github.com/jordemort/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy (3 weeks ago)
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy (3 weeks ago)
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement (1 month ago)
-- [kube-green/kube-green](https://github.com/kube-green/kube-green) - A K8s operator to reduce CO2 footprint of your clusters (1 month ago)
+- [kube-green/kube-green](https://github.com/kube-green/kube-green) - A K8s operator to reduce CO2 footprint of your clusters (2 months ago)
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME (2 months ago)
 - [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider) - HashiCorp Vault Provider for Secret Store CSI Driver (2 months ago)
 - [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) - Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files. (2 months ago)
