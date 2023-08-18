@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.2.0), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.0), today) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.12.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.12.4), 2 days ago) - The helm chart to deploy Harbor
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.0-rc.0](https://github.com/thanos-io/thanos/releases/tag/v0.32.0-rc.0), 2 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.3](https://github.com/kyverno/kyverno/releases/tag/v1.10.3), 1 week ago) - Kubernetes Native Policy Management
