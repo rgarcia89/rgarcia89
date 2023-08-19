@@ -35,6 +35,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [slackhq/simple-kubernetes-webhook](https://github.com/slackhq/simple-kubernetes-webhook) - This project is aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible. (today)
 - [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your inboxes and chat logs. (2 days ago)
 - [sparxsys/jira-shell-scripts](https://github.com/sparxsys/jira-shell-scripts) - Jira shell scripts (1 week ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (1 month ago)
@@ -44,7 +45,6 @@ Welcome to my GitHub profile!
 - [kube-green/kube-green](https://github.com/kube-green/kube-green) - A K8s operator to reduce CO2 footprint of your clusters (2 months ago)
 - [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME (2 months ago)
 - [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider) - HashiCorp Vault Provider for Secret Store CSI Driver (2 months ago)
-- [patrickdappollonio/kubectl-slice](https://github.com/patrickdappollonio/kubectl-slice) - Split multiple Kubernetes files into smaller files with ease. Split multi-YAML files into individual files. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
