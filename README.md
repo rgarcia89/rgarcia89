@@ -13,15 +13,15 @@ Welcome to my GitHub profile!
 
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (2 months ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (2 months ago)
-- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (2 months ago)
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (3 months ago)
 - [DE-CIX/udp-dtls-wrapper](https://github.com/DE-CIX/udp-dtls-wrapper) - UDP-DTLS wrapper written in Golang. Takes UDP traffic and wraps it into DTLS. Main purpose is IPFIX Export currently. (4 months ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.0), 1 day ago) - Prometheus community Helm charts
-- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.12.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.12.4), 3 days ago) - The helm chart to deploy Harbor
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.0-rc.0](https://github.com/thanos-io/thanos/releases/tag/v0.32.0-rc.0), 3 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.0), 2 days ago) - Prometheus community Helm charts
+- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.12.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.12.4), 4 days ago) - The helm chart to deploy Harbor
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.0-rc.0](https://github.com/thanos-io/thanos/releases/tag/v0.32.0-rc.0), 4 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.3](https://github.com/kyverno/kyverno/releases/tag/v1.10.3), 1 week ago) - Kubernetes Native Policy Management
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.19.4](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.19.4), 1 month ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 
@@ -35,8 +35,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [slackhq/simple-kubernetes-webhook](https://github.com/slackhq/simple-kubernetes-webhook) - This project is aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible. (today)
-- [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your inboxes and chat logs. (2 days ago)
+- [slackhq/simple-kubernetes-webhook](https://github.com/slackhq/simple-kubernetes-webhook) - This project is aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible. (1 day ago)
+- [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your inboxes and chat logs. (3 days ago)
 - [sparxsys/jira-shell-scripts](https://github.com/sparxsys/jira-shell-scripts) - Jira shell scripts (1 week ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (1 month ago)
 - [jordemort/traefik-forward-auth](https://github.com/jordemort/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy (1 month ago)
