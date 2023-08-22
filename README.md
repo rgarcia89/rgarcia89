@@ -35,6 +35,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [kubereboot/charts](https://github.com/kubereboot/charts) - Helm charts for kubereboot org (kured) (today)
 - [elastic/terraform-provider-elasticstack](https://github.com/elastic/terraform-provider-elasticstack) - Terraform provider for Elastic Stack (1 day ago)
 - [slackhq/simple-kubernetes-webhook](https://github.com/slackhq/simple-kubernetes-webhook) - This project is aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible. (3 days ago)
 - [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your inboxes and chat logs. (5 days ago)
@@ -44,7 +45,6 @@ Welcome to my GitHub profile!
 - [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy (1 month ago)
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement (1 month ago)
 - [kube-green/kube-green](https://github.com/kube-green/kube-green) - A K8s operator to reduce CO2 footprint of your clusters (2 months ago)
-- [Guake/guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
