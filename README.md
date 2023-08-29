@@ -35,6 +35,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus (today)
 - [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (3 days ago)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (6 days ago)
 - [kubereboot/charts](https://github.com/kubereboot/charts) - Helm charts for kubereboot org (kured) (1 week ago)
@@ -44,7 +45,6 @@ Welcome to my GitHub profile!
 - [sparxsys/jira-shell-scripts](https://github.com/sparxsys/jira-shell-scripts) - Jira shell scripts (2 weeks ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (1 month ago)
 - [jordemort/traefik-forward-auth](https://github.com/jordemort/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy (1 month ago)
-- [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
