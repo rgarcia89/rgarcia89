@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (2 months ago)
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (3 months ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (3 months ago)
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (3 months ago)
 - [DE-CIX/udp-dtls-wrapper](https://github.com/DE-CIX/udp-dtls-wrapper) - UDP-DTLS wrapper written in Golang. Takes UDP traffic and wraps it into DTLS. Main purpose is IPFIX Export currently. (4 months ago)
@@ -19,9 +19,9 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.13.0](https://github.com/goharbor/harbor-helm/releases/tag/v1.13.0), today) - The helm chart to deploy Harbor
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-49.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-49.2.0), 1 day ago) - Prometheus community Helm charts
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.1](https://github.com/thanos-io/thanos/releases/tag/v0.32.1), 2 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.13.0](https://github.com/goharbor/harbor-helm/releases/tag/v1.13.0), 1 day ago) - The helm chart to deploy Harbor
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-49.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-49.2.0), 2 days ago) - Prometheus community Helm charts
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.1](https://github.com/thanos-io/thanos/releases/tag/v0.32.1), 3 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.3](https://github.com/kyverno/kyverno/releases/tag/v1.10.3), 2 weeks ago) - Kubernetes Native Policy Management
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.19.4](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.19.4), 1 month ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 
@@ -35,14 +35,14 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (today)
-- [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus (1 day ago)
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (4 days ago)
+- [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (1 day ago)
+- [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus (2 days ago)
+- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (5 days ago)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (1 week ago)
 - [kubereboot/charts](https://github.com/kubereboot/charts) - Helm charts for kubereboot org (kured) (1 week ago)
 - [elastic/terraform-provider-elasticstack](https://github.com/elastic/terraform-provider-elasticstack) - Terraform provider for Elastic Stack (1 week ago)
 - [slackhq/simple-kubernetes-webhook](https://github.com/slackhq/simple-kubernetes-webhook) - This project is aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible. (1 week ago)
-- [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your inboxes and chat logs. (1 week ago)
+- [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your inboxes and chat logs. (2 weeks ago)
 - [sparxsys/jira-shell-scripts](https://github.com/sparxsys/jira-shell-scripts) - Jira shell scripts (3 weeks ago)
 - [robusta-dev/robusta](https://github.com/robusta-dev/robusta) - Kubernetes observability and automation, with an awesome Prometheus integration (1 month ago)
 
