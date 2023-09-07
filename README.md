@@ -35,6 +35,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch (today)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (4 days ago)
 - [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (1 week ago)
 - [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus (1 week ago)
@@ -44,7 +45,6 @@ Welcome to my GitHub profile!
 - [elastic/terraform-provider-elasticstack](https://github.com/elastic/terraform-provider-elasticstack) - Terraform provider for Elastic Stack (2 weeks ago)
 - [slackhq/simple-kubernetes-webhook](https://github.com/slackhq/simple-kubernetes-webhook) - This project is aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible. (2 weeks ago)
 - [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your inboxes and chat logs. (3 weeks ago)
-- [sparxsys/jira-shell-scripts](https://github.com/sparxsys/jira-shell-scripts) - Jira shell scripts (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
