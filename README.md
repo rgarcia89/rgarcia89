@@ -19,8 +19,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.13.0), today) - Prometheus community Helm charts
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 1 day ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.4.0), 2 days ago) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.13.0](https://github.com/goharbor/harbor-helm/releases/tag/v1.13.0), 3 days ago) - The helm chart to deploy Harbor
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.2](https://github.com/thanos-io/thanos/releases/tag/v0.32.2), 1 week ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.10.3](https://github.com/kyverno/kyverno/releases/tag/v1.10.3), 3 weeks ago) - Kubernetes Native Policy Management
