@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.3.1), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.2), today) - Prometheus community Helm charts
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 3 days ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.13.0](https://github.com/goharbor/harbor-helm/releases/tag/v1.13.0), 5 days ago) - The helm chart to deploy Harbor
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.2](https://github.com/thanos-io/thanos/releases/tag/v0.32.2), 1 week ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
