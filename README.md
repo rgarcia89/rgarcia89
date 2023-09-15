@@ -19,8 +19,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.0.3), today) - Prometheus community Helm charts
-- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.20.0](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.20.0), 4 days ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.0.3), 1 day ago) - Prometheus community Helm charts
+- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.20.0](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.20.0), 5 days ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 1 week ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.13.0](https://github.com/goharbor/harbor-helm/releases/tag/v1.13.0), 1 week ago) - The helm chart to deploy Harbor
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.2](https://github.com/thanos-io/thanos/releases/tag/v0.32.2), 2 weeks ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
