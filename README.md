@@ -35,6 +35,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;SSL VPN tunnel services (today)
 - [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch (1 week ago)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (2 weeks ago)
 - [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (2 weeks ago)
@@ -44,7 +45,6 @@ Welcome to my GitHub profile!
 - [kubereboot/charts](https://github.com/kubereboot/charts) - Helm charts for kubereboot org (kured) (3 weeks ago)
 - [elastic/terraform-provider-elasticstack](https://github.com/elastic/terraform-provider-elasticstack) - Terraform provider for Elastic Stack (4 weeks ago)
 - [slackhq/simple-kubernetes-webhook](https://github.com/slackhq/simple-kubernetes-webhook) - This project is aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible. (1 month ago)
-- [onetimesecret/onetimesecret](https://github.com/onetimesecret/onetimesecret) - Keep passwords and other sensitive information out of your inboxes and chat logs. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
