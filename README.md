@@ -19,9 +19,9 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.0-beta.3](https://github.com/kyverno/kyverno/releases/tag/v1.11.0-beta.3), today) - Kubernetes Native Policy Management
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.3.1), today) - Prometheus community Helm charts
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.20.1](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.20.1), today) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.0-beta.2](https://github.com/kyverno/kyverno/releases/tag/v1.11.0-beta.2), 3 days ago) - Kubernetes Native Policy Management
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.3](https://github.com/thanos-io/thanos/releases/tag/v0.32.3), 5 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.11.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.11.3), 1 week ago) - The helm chart to deploy Harbor
 
