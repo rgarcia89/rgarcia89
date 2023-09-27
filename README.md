@@ -19,10 +19,10 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.6.0), today) - Prometheus community Helm charts
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.0-beta.3](https://github.com/kyverno/kyverno/releases/tag/v1.11.0-beta.3), 1 day ago) - Kubernetes Native Policy Management
-- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.20.1](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.20.1), 1 day ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.3](https://github.com/thanos-io/thanos/releases/tag/v0.32.3), 6 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.6.0), 1 day ago) - Prometheus community Helm charts
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.0-beta.3](https://github.com/kyverno/kyverno/releases/tag/v1.11.0-beta.3), 2 days ago) - Kubernetes Native Policy Management
+- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.20.1](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.20.1), 2 days ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.3](https://github.com/thanos-io/thanos/releases/tag/v0.32.3), 1 week ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.11.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.11.3), 1 week ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
@@ -38,7 +38,7 @@ Welcome to my GitHub profile!
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;SSL VPN tunnel services (1 week ago)
 - [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch (2 weeks ago)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (3 weeks ago)
-- [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (3 weeks ago)
+- [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (4 weeks ago)
 - [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus (4 weeks ago)
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 month ago)
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (1 month ago)
