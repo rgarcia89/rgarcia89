@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.7.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.3.1), today) - Prometheus community Helm charts
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.0-beta.4](https://github.com/kyverno/kyverno/releases/tag/v1.11.0-beta.4), 1 day ago) - Kubernetes Native Policy Management
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.20.1](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.20.1), 4 days ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.3](https://github.com/thanos-io/thanos/releases/tag/v0.32.3), 1 week ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -35,6 +35,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (today)
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;SSL VPN tunnel services (1 week ago)
 - [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch (3 weeks ago)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (3 weeks ago)
@@ -44,7 +45,6 @@ Welcome to my GitHub profile!
 - [eraser-dev/eraser](https://github.com/eraser-dev/eraser) - 🧹 Cleaning up images from Kubernetes nodes (1 month ago)
 - [kubereboot/charts](https://github.com/kubereboot/charts) - Helm charts for kubereboot org (kured) (1 month ago)
 - [elastic/terraform-provider-elasticstack](https://github.com/elastic/terraform-provider-elasticstack) - Terraform provider for Elastic Stack (1 month ago)
-- [slackhq/simple-kubernetes-webhook](https://github.com/slackhq/simple-kubernetes-webhook) - This project is aimed at illustrating how to build a fully functioning kubernetes admission webhook in the simplest way possible. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
