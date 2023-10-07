@@ -19,8 +19,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.3.0), 1 day ago) - Prometheus community Helm charts
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.4](https://github.com/thanos-io/thanos/releases/tag/v0.32.4), 4 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.3.0), 2 days ago) - Prometheus community Helm charts
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.4](https://github.com/thanos-io/thanos/releases/tag/v0.32.4), 5 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.0-beta.4](https://github.com/kyverno/kyverno/releases/tag/v1.11.0-beta.4), 1 week ago) - Kubernetes Native Policy Management
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.20.1](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.20.1), 1 week ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.11.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.11.3), 3 weeks ago) - The helm chart to deploy Harbor
@@ -31,13 +31,13 @@ Welcome to my GitHub profile!
 - [Add missing delete verb to admission cleanup clusterrole](https://github.com/kyverno/kyverno/pull/7375) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (4 months ago)
 - [add de-cix as adopter](https://github.com/thanos-io/thanos/pull/6386) on [thanos-io/thanos](https://github.com/thanos-io/thanos) (4 months ago)
 - [Install PodDistruptionBudgets when replica greater than 1](https://github.com/goharbor/harbor-helm/pull/1509) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (4 months ago)
-- [AKS - Create dedicated kubernetes service to expose CoreDNS metrics](https://github.com/prometheus-operator/kube-prometheus/pull/2107) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (4 months ago)
+- [AKS - Create dedicated kubernetes service to expose CoreDNS metrics](https://github.com/prometheus-operator/kube-prometheus/pull/2107) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (5 months ago)
 
 #### ⭐ Recent Stars
 
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (1 week ago)
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;SSL VPN tunnel services (2 weeks ago)
-- [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch (4 weeks ago)
+- [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch (1 month ago)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (1 month ago)
 - [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (1 month ago)
 - [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus (1 month ago)
