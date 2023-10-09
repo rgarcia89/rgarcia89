@@ -19,10 +19,10 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.3.0), 3 days ago) - Prometheus community Helm charts
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.4](https://github.com/thanos-io/thanos/releases/tag/v0.32.4), 6 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.3.0), 4 days ago) - Prometheus community Helm charts
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.4](https://github.com/thanos-io/thanos/releases/tag/v0.32.4), 1 week ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.0-beta.4](https://github.com/kyverno/kyverno/releases/tag/v1.11.0-beta.4), 1 week ago) - Kubernetes Native Policy Management
-- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.20.1](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.20.1), 1 week ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
+- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.20.1](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.20.1), 2 weeks ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.11.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.11.3), 3 weeks ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
@@ -36,7 +36,7 @@ Welcome to my GitHub profile!
 #### ⭐ Recent Stars
 
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (1 week ago)
-- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;SSL VPN tunnel services (2 weeks ago)
+- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;SSL VPN tunnel services (3 weeks ago)
 - [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch (1 month ago)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (1 month ago)
 - [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (1 month ago)
