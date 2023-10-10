@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.4.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.4.1), today) - Prometheus community Helm charts
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.4](https://github.com/thanos-io/thanos/releases/tag/v0.32.4), 1 week ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.0-beta.4](https://github.com/kyverno/kyverno/releases/tag/v1.11.0-beta.4), 1 week ago) - Kubernetes Native Policy Management
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.20.1](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.20.1), 2 weeks ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
