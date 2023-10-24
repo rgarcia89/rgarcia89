@@ -19,10 +19,10 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.0-rc.3](https://github.com/kyverno/kyverno/releases/tag/v1.11.0-rc.3), today) - Kubernetes Native Policy Management
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.8.0), 1 day ago) - Prometheus community Helm charts
-- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.21.0](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.21.0), 2 days ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.5](https://github.com/thanos-io/thanos/releases/tag/v0.32.5), 4 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.0-rc.3](https://github.com/kyverno/kyverno/releases/tag/v1.11.0-rc.3), 1 day ago) - Kubernetes Native Policy Management
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.8.0), 2 days ago) - Prometheus community Helm charts
+- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.21.0](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.21.0), 3 days ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.5](https://github.com/thanos-io/thanos/releases/tag/v0.32.5), 5 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.11.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.11.3), 1 month ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
@@ -35,8 +35,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. (today)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (6 days ago)
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. (1 day ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 week ago)
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (3 weeks ago)
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;SSL VPN tunnel services (1 month ago)
