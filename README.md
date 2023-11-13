@@ -19,8 +19,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-53.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-53.0.0), today) - Prometheus community Helm charts
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.0](https://github.com/kyverno/kyverno/releases/tag/v1.11.0), 2 days ago) - Kubernetes Native Policy Management
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-53.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-53.0.0), 1 day ago) - Prometheus community Helm charts
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.0](https://github.com/kyverno/kyverno/releases/tag/v1.11.0), 3 days ago) - Kubernetes Native Policy Management
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.21.1](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.21.1), 2 weeks ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.32.5](https://github.com/thanos-io/thanos/releases/tag/v0.32.5), 3 weeks ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 2 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
@@ -30,12 +30,12 @@ Welcome to my GitHub profile!
 - [Allow setting verbs for clusterrole extraresources on backgroundController](https://github.com/kyverno/kyverno/pull/7380) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (5 months ago)
 - [Add missing delete verb to admission cleanup clusterrole](https://github.com/kyverno/kyverno/pull/7375) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (5 months ago)
 - [add de-cix as adopter](https://github.com/thanos-io/thanos/pull/6386) on [thanos-io/thanos](https://github.com/thanos-io/thanos) (5 months ago)
-- [Install PodDistruptionBudgets when replica greater than 1](https://github.com/goharbor/harbor-helm/pull/1509) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (5 months ago)
+- [Install PodDistruptionBudgets when replica greater than 1](https://github.com/goharbor/harbor-helm/pull/1509) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (6 months ago)
 - [AKS - Create dedicated kubernetes service to expose CoreDNS metrics](https://github.com/prometheus-operator/kube-prometheus/pull/2107) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (6 months ago)
 
 #### ⭐ Recent Stars
 
-- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. (2 weeks ago)
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. (3 weeks ago)
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (3 weeks ago)
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (4 weeks ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (1 month ago)
