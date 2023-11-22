@@ -35,6 +35,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [elastic/fleet-server](https://github.com/elastic/fleet-server) - The Fleet server allows managing a fleet of Elastic Agents. (today)
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. (1 month ago)
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 month ago)
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 month ago)
@@ -44,7 +45,6 @@ Welcome to my GitHub profile!
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (2 months ago)
 - [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (2 months ago)
 - [kubernetes-sigs/prometheus-adapter](https://github.com/kubernetes-sigs/prometheus-adapter) - An implementation of the custom.metrics.k8s.io API using Prometheus (2 months ago)
-- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
