@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-opencost-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-opencost-exporter-0.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-opencost-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-opencost-exporter-0.1.0), 1 day ago) - Prometheus community Helm charts
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.21.3](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.21.3), 1 week ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.1](https://github.com/kyverno/kyverno/releases/tag/v1.11.1), 1 week ago) - Kubernetes Native Policy Management
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.33.0-rc.0](https://github.com/thanos-io/thanos/releases/tag/v0.33.0-rc.0), 1 week ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -36,7 +36,7 @@ Welcome to my GitHub profile!
 #### ⭐ Recent Stars
 
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (1 week ago)
-- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (1 week ago)
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (2 weeks ago)
 - [elastic/fleet-server](https://github.com/elastic/fleet-server) - The Fleet server allows managing a fleet of Elastic Agents. (2 weeks ago)
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. (1 month ago)
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 month ago)
