@@ -35,6 +35,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [container-registry/awesome-harbor](https://github.com/container-registry/awesome-harbor) - Awesome List for Harbor Container Registry related projects, libraries and articles. (today)
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (1 week ago)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (2 weeks ago)
 - [elastic/fleet-server](https://github.com/elastic/fleet-server) - The Fleet server allows managing a fleet of Elastic Agents. (2 weeks ago)
@@ -44,7 +45,6 @@ Welcome to my GitHub profile!
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (2 months ago)
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;TLS VPN tunnel services (2 months ago)
 - [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch (3 months ago)
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
