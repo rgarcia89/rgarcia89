@@ -27,11 +27,11 @@ Welcome to my GitHub profile!
 
 #### 🔨 My recent Pull Requests
 
+- [add DE-CIX as adopter](https://github.com/goharbor/website/pull/520) on [goharbor/website](https://github.com/goharbor/website) (today)
 - [Allow setting verbs for clusterrole extraresources on backgroundController](https://github.com/kyverno/kyverno/pull/7380) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (6 months ago)
 - [Add missing delete verb to admission cleanup clusterrole](https://github.com/kyverno/kyverno/pull/7375) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (6 months ago)
 - [add de-cix as adopter](https://github.com/thanos-io/thanos/pull/6386) on [thanos-io/thanos](https://github.com/thanos-io/thanos) (6 months ago)
 - [Install PodDistruptionBudgets when replica greater than 1](https://github.com/goharbor/harbor-helm/pull/1509) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (6 months ago)
-- [AKS - Create dedicated kubernetes service to expose CoreDNS metrics](https://github.com/prometheus-operator/kube-prometheus/pull/2107) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (7 months ago)
 
 #### ⭐ Recent Stars
 
