@@ -19,10 +19,10 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.3.0), today) - Prometheus community Helm charts
-- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.21.4](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.21.4), 1 day ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.1](https://github.com/kyverno/kyverno/releases/tag/v1.11.1), 1 week ago) - Kubernetes Native Policy Management
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.33.0-rc.0](https://github.com/thanos-io/thanos/releases/tag/v0.33.0-rc.0), 1 week ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.3.0), 1 day ago) - Prometheus community Helm charts
+- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-2.21.4](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-2.21.4), 2 days ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.1](https://github.com/kyverno/kyverno/releases/tag/v1.11.1), 2 weeks ago) - Kubernetes Native Policy Management
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.33.0-rc.0](https://github.com/thanos-io/thanos/releases/tag/v0.33.0-rc.0), 2 weeks ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 3 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
 #### 🔨 My recent Pull Requests
@@ -35,8 +35,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [container-registry/awesome-harbor](https://github.com/container-registry/awesome-harbor) - Awesome List for Harbor Container Registry related projects, libraries and articles. (today)
-- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (1 week ago)
+- [container-registry/awesome-harbor](https://github.com/container-registry/awesome-harbor) - Awesome List for Harbor Container Registry related projects, libraries and articles. (1 day ago)
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (2 weeks ago)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (2 weeks ago)
 - [elastic/fleet-server](https://github.com/elastic/fleet-server) - The Fleet server allows managing a fleet of Elastic Agents. (2 weeks ago)
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. (1 month ago)
