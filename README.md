@@ -11,19 +11,19 @@ Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
+- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (today)
 - [goharbor/website](https://github.com/goharbor/website) - Source for the main Harbor website (5 days ago)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (6 months ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (7 months ago)
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (7 months ago)
-- [DE-CIX/udp-dtls-wrapper](https://github.com/DE-CIX/udp-dtls-wrapper) - UDP-DTLS wrapper written in Golang. Takes UDP traffic and wraps it into DTLS. Main purpose is IPFIX Export currently. (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.10.0](https://github.com/goharbor/harbor/releases/tag/v2.10.0), today) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-preview-3.0.0-alpha.2](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-preview-3.0.0-alpha.2), 1 day ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.33.0](https://github.com/thanos-io/thanos/releases/tag/v0.33.0), 1 day ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.3), 3 days ago) - Prometheus community Helm charts
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.1](https://github.com/kyverno/kyverno/releases/tag/v1.11.1), 3 weeks ago) - Kubernetes Native Policy Management
-- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 3 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
 #### 🔨 My recent Pull Requests
 
