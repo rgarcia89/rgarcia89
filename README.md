@@ -35,6 +35,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (today)
+- [amjadmajid/Makefile](https://github.com/amjadmajid/Makefile) - This repo contains explanation about how to write a Makefile (today)
 - [container-registry/awesome-harbor](https://github.com/container-registry/awesome-harbor) - Awesome List for Harbor Container Registry related projects, libraries and articles. (2 weeks ago)
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (4 weeks ago)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (1 month ago)
@@ -43,8 +45,6 @@ Welcome to my GitHub profile!
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (2 months ago)
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (2 months ago)
 - [project-copacetic/copacetic](https://github.com/project-copacetic/copacetic) - 🧵 CLI tool for directly patching container images using reports from vulnerability scanners (2 months ago)
-- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP&#43;TLS VPN tunnel services (3 months ago)
-- [elastic/rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
