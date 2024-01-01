@@ -19,11 +19,11 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.15.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.3), 1 day ago) - Prometheus community Helm charts
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.2](https://github.com/kyverno/kyverno/releases/tag/v1.11.2), 3 days ago) - Kubernetes Native Policy Management
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.15.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.3), 2 days ago) - Prometheus community Helm charts
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.2](https://github.com/kyverno/kyverno/releases/tag/v1.11.2), 4 days ago) - Kubernetes Native Policy Management
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.10.0](https://github.com/goharbor/harbor/releases/tag/v2.10.0), 1 week ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-preview-3.0.0-alpha.2](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-preview-3.0.0-alpha.2), 1 week ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.33.0](https://github.com/thanos-io/thanos/releases/tag/v0.33.0), 1 week ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-preview-3.0.0-alpha.2](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-preview-3.0.0-alpha.2), 2 weeks ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.33.0](https://github.com/thanos-io/thanos/releases/tag/v0.33.0), 2 weeks ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 
 #### 🔨 My recent Pull Requests
 
@@ -35,9 +35,9 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (4 days ago)
-- [amjadmajid/Makefile](https://github.com/amjadmajid/Makefile) - This repo contains explanation about how to write a Makefile (4 days ago)
-- [container-registry/awesome-harbor](https://github.com/container-registry/awesome-harbor) - Awesome List for Harbor Container Registry related projects, libraries and articles. (2 weeks ago)
+- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (5 days ago)
+- [amjadmajid/Makefile](https://github.com/amjadmajid/Makefile) - This repo contains explanation about how to write a Makefile (5 days ago)
+- [container-registry/awesome-harbor](https://github.com/container-registry/awesome-harbor) - Awesome List for Harbor Container Registry related projects, libraries and articles. (3 weeks ago)
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (1 month ago)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (1 month ago)
 - [elastic/fleet-server](https://github.com/elastic/fleet-server) - The Fleet server allows managing a fleet of Elastic Agents. (1 month ago)
