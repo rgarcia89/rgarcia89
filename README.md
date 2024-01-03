@@ -27,11 +27,11 @@ Welcome to my GitHub profile!
 
 #### 🔨 My recent Pull Requests
 
+- [Add securityContext definitions on container level](https://github.com/goharbor/harbor-helm/pull/1673) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (today)
 - [add DE-CIX as adopters](https://github.com/goharbor/harbor/pull/19707) on [goharbor/harbor](https://github.com/goharbor/harbor) (3 weeks ago)
 - [add DE-CIX as adopter](https://github.com/goharbor/website/pull/520) on [goharbor/website](https://github.com/goharbor/website) (3 weeks ago)
 - [Allow setting verbs for clusterrole extraresources on backgroundController](https://github.com/kyverno/kyverno/pull/7380) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (7 months ago)
 - [Add missing delete verb to admission cleanup clusterrole](https://github.com/kyverno/kyverno/pull/7375) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (7 months ago)
-- [add de-cix as adopter](https://github.com/thanos-io/thanos/pull/6386) on [thanos-io/thanos](https://github.com/thanos-io/thanos) (7 months ago)
 
 #### ⭐ Recent Stars
 
