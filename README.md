@@ -19,8 +19,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.3](https://github.com/kyverno/kyverno/releases/tag/v1.11.3), today) - Kubernetes Native Policy Management
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.6.0), today) - Prometheus community Helm charts
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.2](https://github.com/kyverno/kyverno/releases/tag/v1.11.2), 1 week ago) - Kubernetes Native Policy Management
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.10.0](https://github.com/goharbor/harbor/releases/tag/v2.10.0), 2 weeks ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [kyverno/policy-reporter](https://github.com/kyverno/policy-reporter) ([policy-reporter-preview-3.0.0-alpha.2](https://github.com/kyverno/policy-reporter/releases/tag/policy-reporter-preview-3.0.0-alpha.2), 2 weeks ago) - Monitoring and Observability Tool for the PolicyReport CRD with an optional UI.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.33.0](https://github.com/thanos-io/thanos/releases/tag/v0.33.0), 2 weeks ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
