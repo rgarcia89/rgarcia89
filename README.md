@@ -12,14 +12,14 @@ Welcome to my GitHub profile!
 #### 👷 Check out what I'm currently working on
 
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (3 weeks ago)
-- [goharbor/website](https://github.com/goharbor/website) - Source for the main Harbor website (4 weeks ago)
+- [goharbor/website](https://github.com/goharbor/website) - Source for the main Harbor website (1 month ago)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (7 months ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (7 months ago)
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.1), 1 day ago) - Prometheus community Helm charts
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.3](https://github.com/kyverno/kyverno/releases/tag/v1.11.3), 1 week ago) - Kubernetes Native Policy Management
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.10.0](https://github.com/goharbor/harbor/releases/tag/v2.10.0), 3 weeks ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.33.0](https://github.com/thanos-io/thanos/releases/tag/v0.33.0), 3 weeks ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -35,7 +35,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. (6 days ago)
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. (1 week ago)
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes (1 week ago)
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (2 weeks ago)
 - [amjadmajid/Makefile](https://github.com/amjadmajid/Makefile) - This repo contains explanation about how to write a Makefile (2 weeks ago)
