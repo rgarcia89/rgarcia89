@@ -19,9 +19,9 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.0](https://github.com/thanos-io/thanos/releases/tag/v0.34.0), today) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.12.0), today) - Prometheus community Helm charts
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.2-rc1](https://github.com/goharbor/harbor/releases/tag/v2.9.2-rc1), 2 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.0-rc.1](https://github.com/thanos-io/thanos/releases/tag/v0.34.0-rc.1), 4 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.4](https://github.com/kyverno/kyverno/releases/tag/v1.11.4), 1 week ago) - Kubernetes Native Policy Management
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 4 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
