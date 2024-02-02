@@ -19,24 +19,24 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.7.1), today) - Prometheus community Helm charts
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.2](https://github.com/goharbor/harbor/releases/tag/v2.9.2), 3 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.0](https://github.com/thanos-io/thanos/releases/tag/v0.34.0), 5 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.4](https://github.com/kyverno/kyverno/releases/tag/v1.11.4), 1 week ago) - Kubernetes Native Policy Management
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.7.1), 1 day ago) - Prometheus community Helm charts
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.2](https://github.com/goharbor/harbor/releases/tag/v2.9.2), 4 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.0](https://github.com/thanos-io/thanos/releases/tag/v0.34.0), 6 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.4](https://github.com/kyverno/kyverno/releases/tag/v1.11.4), 2 weeks ago) - Kubernetes Native Policy Management
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 4 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [Add condition to disable nginx even if not exposing via ingress](https://github.com/goharbor/harbor-helm/pull/1687) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (1 week ago)
-- [Add securityContext definitions on container level](https://github.com/goharbor/harbor-helm/pull/1673) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (4 weeks ago)
+- [Add condition to disable nginx even if not exposing via ingress](https://github.com/goharbor/harbor-helm/pull/1687) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (2 weeks ago)
+- [Add securityContext definitions on container level](https://github.com/goharbor/harbor-helm/pull/1673) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (1 month ago)
 - [add DE-CIX as adopters](https://github.com/goharbor/harbor/pull/19707) on [goharbor/harbor](https://github.com/goharbor/harbor) (1 month ago)
 - [add DE-CIX as adopter](https://github.com/goharbor/website/pull/520) on [goharbor/website](https://github.com/goharbor/website) (1 month ago)
 - [Allow setting verbs for clusterrole extraresources on backgroundController](https://github.com/kyverno/kyverno/pull/7380) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (8 months ago)
 
 #### ⭐ Recent Stars
 
-- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (2 days ago)
-- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes (3 days ago)
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (3 days ago)
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes (4 days ago)
 - [atlassian/data-center-helm-charts](https://github.com/atlassian/data-center-helm-charts) - Helm charts for Atlassian&#39;s Data Center products (2 weeks ago)
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool (2 weeks ago)
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. (3 weeks ago)
