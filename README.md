@@ -19,8 +19,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.29.0), today) - Prometheus community Helm charts
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-alpha.0](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-alpha.0), 2 days ago) - Kubernetes Native Policy Management
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.29.0), 1 day ago) - Prometheus community Helm charts
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-alpha.0](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-alpha.0), 3 days ago) - Kubernetes Native Policy Management
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.2](https://github.com/goharbor/harbor/releases/tag/v2.9.2), 1 week ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.0](https://github.com/thanos-io/thanos/releases/tag/v0.34.0), 1 week ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 5 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
@@ -35,7 +35,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease. (5 days ago)
+- [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease. (6 days ago)
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (1 week ago)
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes (1 week ago)
 - [atlassian/data-center-helm-charts](https://github.com/atlassian/data-center-helm-charts) - Helm charts for Atlassian&#39;s Data Center products (3 weeks ago)
