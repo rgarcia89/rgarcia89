@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.2.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.2.1), 1 day ago) - Prometheus community Helm charts
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-alpha.0](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-alpha.0), 1 week ago) - Kubernetes Native Policy Management
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.2](https://github.com/goharbor/harbor/releases/tag/v2.9.2), 2 weeks ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.0](https://github.com/thanos-io/thanos/releases/tag/v0.34.0), 2 weeks ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -36,7 +36,7 @@ Welcome to my GitHub profile!
 #### ⭐ Recent Stars
 
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease. (1 week ago)
-- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (1 week ago)
+- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (2 weeks ago)
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes (2 weeks ago)
 - [atlassian/data-center-helm-charts](https://github.com/atlassian/data-center-helm-charts) - Helm charts for Atlassian&#39;s Data Center products (3 weeks ago)
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool (3 weeks ago)
