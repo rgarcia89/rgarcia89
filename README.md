@@ -19,8 +19,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-alpha.1](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-alpha.1), today) - Kubernetes Native Policy Management
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.2.1), 1 day ago) - Prometheus community Helm charts
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-alpha.1](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-alpha.1), 1 day ago) - Kubernetes Native Policy Management
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.2.1), 2 days ago) - Prometheus community Helm charts
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.2](https://github.com/goharbor/harbor/releases/tag/v2.9.2), 2 weeks ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.0](https://github.com/thanos-io/thanos/releases/tag/v0.34.0), 2 weeks ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 5 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
@@ -38,8 +38,8 @@ Welcome to my GitHub profile!
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease. (1 week ago)
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (2 weeks ago)
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes (2 weeks ago)
-- [atlassian/data-center-helm-charts](https://github.com/atlassian/data-center-helm-charts) - Helm charts for Atlassian&#39;s Data Center products (3 weeks ago)
-- [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool (3 weeks ago)
+- [atlassian/data-center-helm-charts](https://github.com/atlassian/data-center-helm-charts) - Helm charts for Atlassian&#39;s Data Center products (4 weeks ago)
+- [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool (4 weeks ago)
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. (1 month ago)
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes (1 month ago)
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (1 month ago)
