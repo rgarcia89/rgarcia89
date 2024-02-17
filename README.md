@@ -48,11 +48,11 @@ Welcome to my GitHub profile!
 
 #### 👯 Check out some of my recent followers
 
+- [senthil28](https://github.com/senthil28)
 - [Tim-herbie](https://github.com/Tim-herbie)
 - [akinpelu746](https://github.com/akinpelu746)
 - [doublest](https://github.com/doublest)
 - [giuseppeingoglia](https://github.com/giuseppeingoglia)
-- [javimox](https://github.com/javimox)
 
 #### 💬 Feedback
 
