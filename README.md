@@ -35,6 +35,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page (today)
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease. (2 weeks ago)
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (2 weeks ago)
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes (2 weeks ago)
@@ -44,7 +45,6 @@ Welcome to my GitHub profile!
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate) - CLI tool to easily migrate Kubernetes persistent volumes (1 month ago)
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (1 month ago)
 - [amjadmajid/Makefile](https://github.com/amjadmajid/Makefile) - This repo contains explanation about how to write a Makefile (1 month ago)
-- [container-registry/awesome-harbor](https://github.com/container-registry/awesome-harbor) - Awesome List for Harbor Container Registry related projects, libraries and articles. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
