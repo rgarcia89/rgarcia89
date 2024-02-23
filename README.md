@@ -35,6 +35,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (today)
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication (today)
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker (2 days ago)
 - [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (2 days ago)
@@ -44,7 +45,6 @@ Welcome to my GitHub profile!
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes (3 weeks ago)
 - [atlassian/data-center-helm-charts](https://github.com/atlassian/data-center-helm-charts) - Helm charts for Atlassian&#39;s Data Center products (1 month ago)
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool (1 month ago)
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
