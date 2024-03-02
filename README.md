@@ -19,9 +19,9 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.16.0), today) - Prometheus community Helm charts
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-alpha.4](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-alpha.4), 1 day ago) - Kubernetes Native Policy Management
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.3-rc1](https://github.com/goharbor/harbor/releases/tag/v2.9.3-rc1), 2 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.16.0), 1 day ago) - Prometheus community Helm charts
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-alpha.4](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-alpha.4), 2 days ago) - Kubernetes Native Policy Management
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.3-rc1](https://github.com/goharbor/harbor/releases/tag/v2.9.3-rc1), 3 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.1](https://github.com/thanos-io/thanos/releases/tag/v0.34.1), 1 week ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 5 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
@@ -35,7 +35,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (today)
+- [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (1 day ago)
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (1 week ago)
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication (1 week ago)
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker (1 week ago)
