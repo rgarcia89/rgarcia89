@@ -19,9 +19,9 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.21.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.21.3), today) - Prometheus community Helm charts
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.3-rc2](https://github.com/goharbor/harbor/releases/tag/v2.9.3-rc2), 1 day ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-alpha.5](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-alpha.5), 2 days ago) - Kubernetes Native Policy Management
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.21.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.21.3), 1 day ago) - Prometheus community Helm charts
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.3-rc2](https://github.com/goharbor/harbor/releases/tag/v2.9.3-rc2), 2 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-alpha.5](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-alpha.5), 3 days ago) - Kubernetes Native Policy Management
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.1](https://github.com/thanos-io/thanos/releases/tag/v0.34.1), 2 weeks ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 6 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
@@ -35,10 +35,10 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time (today)
-- [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (6 days ago)
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (1 week ago)
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication (1 week ago)
+- [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time (1 day ago)
+- [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (1 week ago)
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (2 weeks ago)
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication (2 weeks ago)
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker (2 weeks ago)
 - [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (2 weeks ago)
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page (2 weeks ago)
