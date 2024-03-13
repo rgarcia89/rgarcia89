@@ -12,16 +12,16 @@ Welcome to my GitHub profile!
 #### 👷 Check out what I'm currently working on
 
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (2 months ago)
-- [goharbor/website](https://github.com/goharbor/website) - Source for the main Harbor website (2 months ago)
+- [goharbor/website](https://github.com/goharbor/website) - Source for the main Harbor website (3 months ago)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (9 months ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (9 months ago)
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-10.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-10.0.0), today) - Prometheus community Helm charts
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-rc.1), 4 days ago) - Kubernetes Native Policy Management
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.3](https://github.com/goharbor/harbor/releases/tag/v2.9.3), 4 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-10.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-10.0.0), 1 day ago) - Prometheus community Helm charts
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-rc.1), 5 days ago) - Kubernetes Native Policy Management
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.3](https://github.com/goharbor/harbor/releases/tag/v2.9.3), 5 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.1](https://github.com/thanos-io/thanos/releases/tag/v0.34.1), 3 weeks ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 6 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
@@ -35,12 +35,12 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time (5 days ago)
+- [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time (6 days ago)
 - [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (1 week ago)
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (2 weeks ago)
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication (2 weeks ago)
-- [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker (2 weeks ago)
-- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (2 weeks ago)
+- [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker (3 weeks ago)
+- [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (3 weeks ago)
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page (3 weeks ago)
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease. (1 month ago)
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (1 month ago)
