@@ -35,6 +35,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [Azure/kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator (today)
+- [cncf/llm-in-action](https://github.com/cncf/llm-in-action) - 🤖 Discover how to apply your LLM app skills on Kubernetes! (today)
 - [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time (1 week ago)
 - [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (2 weeks ago)
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (3 weeks ago)
@@ -43,8 +45,6 @@ Welcome to my GitHub profile!
 - [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (4 weeks ago)
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page (1 month ago)
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease. (1 month ago)
-- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries (1 month ago)
-- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
