@@ -19,10 +19,10 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.1), 2 days ago) - Prometheus community Helm charts
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-rc.2), 5 days ago) - Kubernetes Native Policy Management
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.10.1](https://github.com/goharbor/harbor/releases/tag/v2.10.1), 5 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.1](https://github.com/thanos-io/thanos/releases/tag/v0.34.1), 4 weeks ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.1), 3 days ago) - Prometheus community Helm charts
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-rc.2), 6 days ago) - Kubernetes Native Policy Management
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.10.1](https://github.com/goharbor/harbor/releases/tag/v2.10.1), 6 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.1](https://github.com/thanos-io/thanos/releases/tag/v0.34.1), 1 month ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 6 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
 #### 🔨 My recent Pull Requests
@@ -35,9 +35,9 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [Azure/kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator (today)
-- [cncf/llm-in-action](https://github.com/cncf/llm-in-action) - 🤖 Discover how to apply your LLM app skills on Kubernetes! (today)
-- [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time (1 week ago)
+- [Azure/kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator (1 day ago)
+- [cncf/llm-in-action](https://github.com/cncf/llm-in-action) - 🤖 Discover how to apply your LLM app skills on Kubernetes! (1 day ago)
+- [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time (2 weeks ago)
 - [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (2 weeks ago)
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (3 weeks ago)
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication (3 weeks ago)
