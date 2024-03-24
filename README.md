@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.1.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.1.1), 1 day ago) - Prometheus community Helm charts
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-rc.2), 1 week ago) - Kubernetes Native Policy Management
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.10.1](https://github.com/goharbor/harbor/releases/tag/v2.10.1), 1 week ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.1](https://github.com/thanos-io/thanos/releases/tag/v0.34.1), 1 month ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -35,14 +35,14 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing (today)
-- [thanos-community/thanos-operator](https://github.com/thanos-community/thanos-operator) - WIP: Operator to manage Thanos installation (1 day ago)
-- [Azure/kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator (3 days ago)
-- [cncf/llm-in-action](https://github.com/cncf/llm-in-action) - 🤖 Discover how to apply your LLM app skills on Kubernetes! (3 days ago)
+- [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing (1 day ago)
+- [thanos-community/thanos-operator](https://github.com/thanos-community/thanos-operator) - WIP: Operator to manage Thanos installation (2 days ago)
+- [Azure/kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator (4 days ago)
+- [cncf/llm-in-action](https://github.com/cncf/llm-in-action) - 🤖 Discover how to apply your LLM app skills on Kubernetes! (4 days ago)
 - [flant/grafana-statusmap](https://github.com/flant/grafana-statusmap) - Grafana panel plugin to visualize status of multiple objects over time (2 weeks ago)
 - [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (3 weeks ago)
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (4 weeks ago)
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication (4 weeks ago)
+- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (1 month ago)
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication (1 month ago)
 - [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker (1 month ago)
 - [aquasecurity/trivy-operator](https://github.com/aquasecurity/trivy-operator) - Kubernetes-native security toolkit (1 month ago)
 
