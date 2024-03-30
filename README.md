@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.7.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.7.0), 2 days ago) - Prometheus community Helm charts
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.0-rc.2](https://github.com/kyverno/kyverno/releases/tag/v1.12.0-rc.2), 2 weeks ago) - Kubernetes Native Policy Management
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.10.1](https://github.com/goharbor/harbor/releases/tag/v2.10.1), 2 weeks ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.1](https://github.com/thanos-io/thanos/releases/tag/v0.34.1), 1 month ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
@@ -35,7 +35,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing (6 days ago)
+- [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing (1 week ago)
 - [thanos-community/thanos-operator](https://github.com/thanos-community/thanos-operator) - WIP: Operator to manage Thanos installation (1 week ago)
 - [Azure/kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator (1 week ago)
 - [cncf/llm-in-action](https://github.com/cncf/llm-in-action) - 🤖 Discover how to apply your LLM app skills on Kubernetes! (1 week ago)
