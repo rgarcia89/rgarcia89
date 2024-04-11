@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.10.2](https://github.com/goharbor/harbor/releases/tag/v2.10.2), today) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.10.2](https://github.com/goharbor/harbor/releases/tag/v2.10.2), 1 day ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.1](https://github.com/thanos-io/thanos/releases/tag/v0.34.1), 1 month ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 7 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
@@ -27,13 +27,13 @@ Welcome to my GitHub profile!
 
 - [Add condition to disable nginx even if not exposing via ingress](https://github.com/goharbor/harbor-helm/pull/1687) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (2 months ago)
 - [Add securityContext definitions on container level](https://github.com/goharbor/harbor-helm/pull/1673) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (3 months ago)
-- [add DE-CIX as adopters](https://github.com/goharbor/harbor/pull/19707) on [goharbor/harbor](https://github.com/goharbor/harbor) (3 months ago)
+- [add DE-CIX as adopters](https://github.com/goharbor/harbor/pull/19707) on [goharbor/harbor](https://github.com/goharbor/harbor) (4 months ago)
 - [add DE-CIX as adopter](https://github.com/goharbor/website/pull/520) on [goharbor/website](https://github.com/goharbor/website) (4 months ago)
 - [Allow setting verbs for clusterrole extraresources on backgroundController](https://github.com/kyverno/kyverno/pull/7380) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (10 months ago)
 
 #### ⭐ Recent Stars
 
-- [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (today)
+- [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (1 day ago)
 - [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing (2 weeks ago)
 - [thanos-community/thanos-operator](https://github.com/thanos-community/thanos-operator) - WIP: Operator to manage Thanos installation (2 weeks ago)
 - [Azure/kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator (3 weeks ago)
