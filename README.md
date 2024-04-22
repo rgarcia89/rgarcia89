@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.4](https://github.com/goharbor/harbor/releases/tag/v2.9.4), 3 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.4](https://github.com/goharbor/harbor/releases/tag/v2.9.4), 4 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.34.1](https://github.com/thanos-io/thanos/releases/tag/v0.34.1), 2 months ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 7 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
@@ -34,7 +34,7 @@ Welcome to my GitHub profile!
 #### ⭐ Recent Stars
 
 - [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (1 week ago)
-- [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing (4 weeks ago)
+- [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing (1 month ago)
 - [thanos-community/thanos-operator](https://github.com/thanos-community/thanos-operator) - WIP: Operator to manage Thanos installation (1 month ago)
 - [Azure/kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator (1 month ago)
 - [cncf/llm-in-action](https://github.com/cncf/llm-in-action) - 🤖 Discover how to apply your LLM app skills on Kubernetes! (1 month ago)
