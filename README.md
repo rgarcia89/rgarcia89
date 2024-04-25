@@ -33,6 +33,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) - This repo addresses further work involving Kubernetes network security beyond the initial NetworkPolicy resource (today)
 - [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (2 weeks ago)
 - [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing (1 month ago)
 - [thanos-community/thanos-operator](https://github.com/thanos-community/thanos-operator) - WIP: Operator to manage Thanos installation (1 month ago)
@@ -42,7 +43,6 @@ Welcome to my GitHub profile!
 - [grafana/grafana-operator](https://github.com/grafana/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (1 month ago)
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (2 months ago)
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (2 months ago)
-- [zalando/spilo](https://github.com/zalando/spilo) - Highly available elephant herd: HA PostgreSQL cluster using Docker (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
