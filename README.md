@@ -19,22 +19,22 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.1-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.12.1-rc.1), today) - Kubernetes Native Policy Management
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.35.0-rc.0](https://github.com/thanos-io/thanos/releases/tag/v0.35.0-rc.0), 2 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.4](https://github.com/goharbor/harbor/releases/tag/v2.9.4), 1 week ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.1-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.12.1-rc.1), 1 day ago) - Kubernetes Native Policy Management
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.35.0-rc.0](https://github.com/thanos-io/thanos/releases/tag/v0.35.0-rc.0), 3 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.4](https://github.com/goharbor/harbor/releases/tag/v2.9.4), 2 weeks ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 7 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
 #### 🔨 My recent Pull Requests
 
 - [Add condition to disable nginx even if not exposing via ingress](https://github.com/goharbor/harbor-helm/pull/1687) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (3 months ago)
-- [Add securityContext definitions on container level](https://github.com/goharbor/harbor-helm/pull/1673) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (3 months ago)
+- [Add securityContext definitions on container level](https://github.com/goharbor/harbor-helm/pull/1673) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (4 months ago)
 - [add DE-CIX as adopters](https://github.com/goharbor/harbor/pull/19707) on [goharbor/harbor](https://github.com/goharbor/harbor) (4 months ago)
 - [add DE-CIX as adopter](https://github.com/goharbor/website/pull/520) on [goharbor/website](https://github.com/goharbor/website) (4 months ago)
 - [Allow setting verbs for clusterrole extraresources on backgroundController](https://github.com/kyverno/kyverno/pull/7380) on [kyverno/kyverno](https://github.com/kyverno/kyverno) (11 months ago)
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) - This repo addresses further work involving Kubernetes network security beyond the initial NetworkPolicy resource (6 days ago)
+- [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) - This repo addresses further work involving Kubernetes network security beyond the initial NetworkPolicy resource (1 week ago)
 - [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (3 weeks ago)
 - [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing (1 month ago)
 - [thanos-community/thanos-operator](https://github.com/thanos-community/thanos-operator) - WIP: Operator to manage Thanos installation (1 month ago)
