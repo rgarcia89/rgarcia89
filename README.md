@@ -19,8 +19,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.1](https://github.com/kyverno/kyverno/releases/tag/v1.12.1), today) - Kubernetes Native Policy Management
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.35.0](https://github.com/thanos-io/thanos/releases/tag/v0.35.0), 1 day ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.1-rc.1](https://github.com/kyverno/kyverno/releases/tag/v1.12.1-rc.1), 2 days ago) - Kubernetes Native Policy Management
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.4](https://github.com/goharbor/harbor/releases/tag/v2.9.4), 2 weeks ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 8 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
