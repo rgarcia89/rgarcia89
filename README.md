@@ -19,8 +19,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.1](https://github.com/kyverno/kyverno/releases/tag/v1.12.1), 4 days ago) - Kubernetes Native Policy Management
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.35.0](https://github.com/thanos-io/thanos/releases/tag/v0.35.0), 5 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.1](https://github.com/kyverno/kyverno/releases/tag/v1.12.1), 5 days ago) - Kubernetes Native Policy Management
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.35.0](https://github.com/thanos-io/thanos/releases/tag/v0.35.0), 6 days ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.4](https://github.com/goharbor/harbor/releases/tag/v2.9.4), 2 weeks ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 8 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
@@ -34,9 +34,9 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [grafana/terraform-provider-grafana](https://github.com/grafana/terraform-provider-grafana) - Terraform Grafana provider (today)
+- [grafana/terraform-provider-grafana](https://github.com/grafana/terraform-provider-grafana) - Terraform Grafana provider (1 day ago)
 - [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) - This repo addresses further work involving Kubernetes network security beyond the initial NetworkPolicy resource (1 week ago)
-- [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (3 weeks ago)
+- [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (4 weeks ago)
 - [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing (1 month ago)
 - [thanos-community/thanos-operator](https://github.com/thanos-community/thanos-operator) - WIP: Operator to manage Thanos installation (1 month ago)
 - [Azure/kaito](https://github.com/Azure/kaito) - Kubernetes AI Toolchain Operator (1 month ago)
