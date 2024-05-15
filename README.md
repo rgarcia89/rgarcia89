@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.5](https://github.com/kyverno/kyverno/releases/tag/v1.11.5), 5 days ago) - Kubernetes Native Policy Management
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.11.5](https://github.com/kyverno/kyverno/releases/tag/v1.11.5), 6 days ago) - Kubernetes Native Policy Management
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) ([v0.35.0](https://github.com/thanos-io/thanos/releases/tag/v0.35.0), 1 week ago) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.9.4](https://github.com/goharbor/harbor/releases/tag/v2.9.4), 3 weeks ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 8 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
@@ -34,9 +34,9 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (today)
-- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team&#39;s unique knowledge. (6 days ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models. (6 days ago)
+- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (1 day ago)
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team&#39;s unique knowledge. (1 week ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models. (1 week ago)
 - [grafana/terraform-provider-grafana](https://github.com/grafana/terraform-provider-grafana) - Terraform Grafana provider (1 week ago)
 - [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) - This repo addresses further work involving Kubernetes network security beyond the initial NetworkPolicy resource (2 weeks ago)
 - [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (1 month ago)
