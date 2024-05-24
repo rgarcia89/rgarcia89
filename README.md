@@ -19,8 +19,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.2](https://github.com/kyverno/kyverno/releases/tag/v1.12.2), today) - Kubernetes Native Policy Management
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.11.0-rc1](https://github.com/goharbor/harbor/releases/tag/v2.11.0-rc1), 6 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.2](https://github.com/kyverno/kyverno/releases/tag/v1.12.2), 1 day ago) - Kubernetes Native Policy Management
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.11.0-rc1](https://github.com/goharbor/harbor/releases/tag/v2.11.0-rc1), 1 week ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 
 #### 🔨 My recent Pull Requests
 
@@ -32,8 +32,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (today)
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (today)
+- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (1 day ago)
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (1 day ago)
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (1 week ago)
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team&#39;s unique knowledge. (2 weeks ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models. (2 weeks ago)
