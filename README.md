@@ -14,8 +14,6 @@ Welcome to my GitHub profile!
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (5 months ago)
 - [goharbor/website](https://github.com/goharbor/website) - Source for the main Harbor website (5 months ago)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (1 year ago)
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 year ago)
-- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
