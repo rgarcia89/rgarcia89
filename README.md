@@ -11,6 +11,7 @@ Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (today)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (5 months ago)
 - [goharbor/website](https://github.com/goharbor/website) - Source for the main Harbor website (5 months ago)
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) - Kubernetes Native Policy Management (1 year ago)
@@ -19,6 +20,7 @@ Welcome to my GitHub profile!
 
 - [kyverno/kyverno](https://github.com/kyverno/kyverno) ([v1.12.2](https://github.com/kyverno/kyverno/releases/tag/v1.12.2), 1 week ago) - Kubernetes Native Policy Management
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.11.0-rc1](https://github.com/goharbor/harbor/releases/tag/v2.11.0-rc1), 1 week ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 8 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
 #### 🔨 My recent Pull Requests
 
