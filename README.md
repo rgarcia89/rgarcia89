@@ -36,7 +36,7 @@ Welcome to my GitHub profile!
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team&#39;s unique knowledge. (1 month ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models. (1 month ago)
 - [grafana/terraform-provider-grafana](https://github.com/grafana/terraform-provider-grafana) - Terraform Grafana provider (1 month ago)
-- [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) - This repo addresses further work involving Kubernetes network security beyond the initial NetworkPolicy resource (1 month ago)
+- [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) - This repo addresses further work involving Kubernetes network security beyond the initial NetworkPolicy resource (2 months ago)
 - [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (2 months ago)
 - [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing (3 months ago)
 - [thanos-community/thanos-operator](https://github.com/thanos-community/thanos-operator) - WIP: Operator to manage Thanos installation (3 months ago)
