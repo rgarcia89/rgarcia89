@@ -30,6 +30,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (today)
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (1 month ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (1 month ago)
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (2 months ago)
@@ -39,7 +40,6 @@ Welcome to my GitHub profile!
 - [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) - This repo addresses further work involving Kubernetes network security beyond the initial NetworkPolicy resource (2 months ago)
 - [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (3 months ago)
 - [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing (3 months ago)
-- [thanos-community/thanos-operator](https://github.com/thanos-community/thanos-operator) - WIP: Operator to manage Thanos installation (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
