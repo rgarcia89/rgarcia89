@@ -5,7 +5,6 @@ Welcome to my GitHub profile!
 
 #### 🌱 My latest projects
 
-- [rgarcia89/trivy-go-118-issue](https://github.com/rgarcia89/trivy-go-118-issue) - 
 - [rgarcia89/sensu-go-manifests](https://github.com/rgarcia89/sensu-go-manifests) - all you need to setup a sensu-go backend cluster that uses an external etcd
 - [rgarcia89/sensu-go-oss](https://github.com/rgarcia89/sensu-go-oss) - Dockerfile to auto build latest sensu-go open source version
 
@@ -30,6 +29,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (today)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (3 weeks ago)
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (2 months ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (2 months ago)
@@ -39,7 +39,6 @@ Welcome to my GitHub profile!
 - [grafana/terraform-provider-grafana](https://github.com/grafana/terraform-provider-grafana) - Terraform Grafana provider (3 months ago)
 - [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) - This repo addresses further work involving Kubernetes network security beyond the initial NetworkPolicy resource (3 months ago)
 - [cloudnative-pg/charts](https://github.com/cloudnative-pg/charts) - CloudNativePG Helm Charts (3 months ago)
-- [kyverno/chainsaw](https://github.com/kyverno/chainsaw) - Declarative K8s e2e testing (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
