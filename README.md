@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.11.1](https://github.com/goharbor/harbor/releases/tag/v2.11.1), 2 weeks ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v1.10.19-rc1](https://github.com/goharbor/harbor/releases/tag/v1.10.19-rc1), today) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 1 year ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
 #### 🔨 My recent Pull Requests
@@ -34,7 +34,7 @@ Welcome to my GitHub profile!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (1 month ago)
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (3 months ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (3 months ago)
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (3 months ago)
+- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (4 months ago)
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team&#39;s unique knowledge. (4 months ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (4 months ago)
 - [grafana/terraform-provider-grafana](https://github.com/grafana/terraform-provider-grafana) - Terraform Grafana provider (4 months ago)
