@@ -16,8 +16,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.14.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.14.0), today) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v1.10.19-rc1](https://github.com/goharbor/harbor/releases/tag/v1.10.19-rc1), 1 day ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.14.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.14.0), 1 day ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v1.10.19-rc1](https://github.com/goharbor/harbor/releases/tag/v1.10.19-rc1), 2 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 
 #### 🔨 My recent Pull Requests
 
@@ -29,7 +29,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (3 weeks ago)
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (4 weeks ago)
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (1 month ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (1 month ago)
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (3 months ago)
