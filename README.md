@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v1.10.19](https://github.com/goharbor/harbor/releases/tag/v1.10.19), 1 day ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v1.10.19](https://github.com/goharbor/harbor/releases/tag/v1.10.19), 2 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.14.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.14.0), 1 week ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
 #### 🔨 My recent Pull Requests
@@ -38,7 +38,7 @@ Welcome to my GitHub profile!
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team&#39;s unique knowledge. (4 months ago)
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models. (4 months ago)
 - [grafana/terraform-provider-grafana](https://github.com/grafana/terraform-provider-grafana) - Terraform Grafana provider (4 months ago)
-- [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) - This repo addresses further work involving Kubernetes network security beyond the initial NetworkPolicy resource (4 months ago)
+- [kubernetes-sigs/network-policy-api](https://github.com/kubernetes-sigs/network-policy-api) - This repo addresses further work involving Kubernetes network security beyond the initial NetworkPolicy resource (5 months ago)
 
 #### 👯 Check out some of my recent followers
 
