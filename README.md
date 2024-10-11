@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v1.10.19](https://github.com/goharbor/harbor/releases/tag/v1.10.19), 2 weeks ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v1.10.19](https://github.com/goharbor/harbor/releases/tag/v1.10.19), 3 weeks ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.14.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.14.0), 4 weeks ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
 #### 🔨 My recent Pull Requests
@@ -29,15 +29,15 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider (1 day ago)
-- [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) - Intel® NPU (Neural Processing Unit) Driver (2 days ago)
+- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider (2 days ago)
+- [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) - Intel® NPU (Neural Processing Unit) Driver (3 days ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages (1 week ago)
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (1 month ago)
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (2 months ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (2 months ago)
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (4 months ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (4 months ago)
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (4 months ago)
+- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (5 months ago)
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team&#39;s unique knowledge. (5 months ago)
 
 #### 👯 Check out some of my recent followers
