@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 #### 🔭 Latest releases I've contributed to
 
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v1.10.19](https://github.com/goharbor/harbor/releases/tag/v1.10.19), 3 weeks ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.14.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.14.0), 4 weeks ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.14.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.14.0), 1 month ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
 #### 🔨 My recent Pull Requests
 
@@ -29,8 +29,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider (2 days ago)
-- [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) - Intel® NPU (Neural Processing Unit) Driver (3 days ago)
+- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider (3 days ago)
+- [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) - Intel® NPU (Neural Processing Unit) Driver (4 days ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages (1 week ago)
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (1 month ago)
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (2 months ago)
