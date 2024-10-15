@@ -23,16 +23,16 @@ Welcome to my GitHub profile!
 
 - [Upgrade kube-rbac-proxy to v0.16.0](https://github.com/hashicorp/vault-secrets-operator/pull/881) on [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) (2 months ago)
 - [Get latest version by tag if no release exists](https://github.com/prometheus-operator/kube-prometheus/pull/2435) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (4 months ago)
-- [Add condition to disable nginx even if not exposing via ingress](https://github.com/goharbor/harbor-helm/pull/1687) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (8 months ago)
+- [Add condition to disable nginx even if not exposing via ingress](https://github.com/goharbor/harbor-helm/pull/1687) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (9 months ago)
 - [Add securityContext definitions on container level](https://github.com/goharbor/harbor-helm/pull/1673) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (9 months ago)
 - [add DE-CIX as adopters](https://github.com/goharbor/harbor/pull/19707) on [goharbor/harbor](https://github.com/goharbor/harbor) (10 months ago)
 
 #### ⭐ Recent Stars
 
-- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider (5 days ago)
-- [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) - Intel® NPU (Neural Processing Unit) Driver (6 days ago)
+- [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider (6 days ago)
+- [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) - Intel® NPU (Neural Processing Unit) Driver (1 week ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages (2 weeks ago)
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (1 month ago)
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (2 months ago)
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (2 months ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services. (3 months ago)
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies (4 months ago)
