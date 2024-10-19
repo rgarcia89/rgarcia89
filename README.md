@@ -29,7 +29,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [stivenhacker/GhostStrike](https://github.com/stivenhacker/GhostStrike) - Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C&#43;&#43; tool for ethical hacking and Red Team operations. (1 day ago)
+- [stivenhacker/GhostStrike](https://github.com/stivenhacker/GhostStrike) - Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C&#43;&#43; tool for ethical hacking and Red Team operations. (2 days ago)
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider (1 week ago)
 - [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) - Intel® NPU (Neural Processing Unit) Driver (1 week ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages (2 weeks ago)
