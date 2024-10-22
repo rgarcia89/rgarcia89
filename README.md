@@ -29,9 +29,9 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [stivenhacker/GhostStrike](https://github.com/stivenhacker/GhostStrike) - Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C&#43;&#43; tool for ethical hacking and Red Team operations. (4 days ago)
+- [stivenhacker/GhostStrike](https://github.com/stivenhacker/GhostStrike) - Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C&#43;&#43; tool for ethical hacking and Red Team operations. (5 days ago)
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider (1 week ago)
-- [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) - Intel® NPU (Neural Processing Unit) Driver (1 week ago)
+- [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) - Intel® NPU (Neural Processing Unit) Driver (2 weeks ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages (3 weeks ago)
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (2 months ago)
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (2 months ago)
