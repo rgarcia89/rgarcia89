@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.12.0-rc1](https://github.com/goharbor/harbor/releases/tag/v2.12.0-rc1), 1 day ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.12.0-rc1](https://github.com/goharbor/harbor/releases/tag/v2.12.0-rc1), 2 days ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.14.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.14.0), 1 month ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
 #### 🔨 My recent Pull Requests
@@ -24,15 +24,15 @@ Welcome to my GitHub profile!
 - [Upgrade kube-rbac-proxy to v0.16.0](https://github.com/hashicorp/vault-secrets-operator/pull/881) on [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) (2 months ago)
 - [Get latest version by tag if no release exists](https://github.com/prometheus-operator/kube-prometheus/pull/2435) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (5 months ago)
 - [Add condition to disable nginx even if not exposing via ingress](https://github.com/goharbor/harbor-helm/pull/1687) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (9 months ago)
-- [Add securityContext definitions on container level](https://github.com/goharbor/harbor-helm/pull/1673) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (9 months ago)
+- [Add securityContext definitions on container level](https://github.com/goharbor/harbor-helm/pull/1673) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (10 months ago)
 - [add DE-CIX as adopters](https://github.com/goharbor/harbor/pull/19707) on [goharbor/harbor](https://github.com/goharbor/harbor) (10 months ago)
 
 #### ⭐ Recent Stars
 
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes (3 days ago)
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes (4 days ago)
 - [stivenhacker/GhostStrike](https://github.com/stivenhacker/GhostStrike) - Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C&#43;&#43; tool for ethical hacking and Red Team operations. (1 week ago)
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider (2 weeks ago)
-- [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) - Intel® NPU (Neural Processing Unit) Driver (2 weeks ago)
+- [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) - Intel® NPU (Neural Processing Unit) Driver (3 weeks ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages (4 weeks ago)
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (2 months ago)
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (2 months ago)
