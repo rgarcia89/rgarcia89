@@ -29,6 +29,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [matiasdelellis/facerecognition](https://github.com/matiasdelellis/facerecognition) - Nextcloud app that implement a basic facial recognition system. (today)
 - [matiasdelellis/facerecognition-external-model](https://github.com/matiasdelellis/facerecognition-external-model) - Nextcloud Facerecognition External Model (today)
 - [Schischu/hello_fresh_gewuerze](https://github.com/Schischu/hello_fresh_gewuerze) - Hello Fresh Gewürze (3 days ago)
 - [fluent/fluent-bit](https://github.com/fluent/fluent-bit) - Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows (3 days ago)
@@ -38,7 +39,6 @@ Welcome to my GitHub profile!
 - [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) - Intel® NPU (Neural Processing Unit) Driver (1 month ago)
 - [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages (1 month ago)
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases &amp; files to data warehouses, data lakes &amp; data lakehouses. Both self-hosted and Cloud-hosted. (2 months ago)
-- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
