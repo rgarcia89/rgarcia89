@@ -29,6 +29,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [kubernetes/node-problem-detector](https://github.com/kubernetes/node-problem-detector) - This is a place for various problem detectors running on the Kubernetes nodes. (today)
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 days ago)
 - [matiasdelellis/facerecognition](https://github.com/matiasdelellis/facerecognition) - Nextcloud app that implement a basic facial recognition system. (5 days ago)
 - [matiasdelellis/facerecognition-external-model](https://github.com/matiasdelellis/facerecognition-external-model) - Nextcloud Facerecognition External Model (5 days ago)
@@ -38,7 +39,6 @@ Welcome to my GitHub profile!
 - [stivenhacker/GhostStrike](https://github.com/stivenhacker/GhostStrike) - Deploy stealthy reverse shells using advanced process hollowing with GhostStrike – a C&#43;&#43; tool for ethical hacking and Red Team operations. (3 weeks ago)
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) - Terraform Vault provider (1 month ago)
 - [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) - Intel® NPU (Neural Processing Unit) Driver (1 month ago)
-- [oras-project/oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
