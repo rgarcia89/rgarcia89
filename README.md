@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.12.0](https://github.com/goharbor/harbor/releases/tag/v2.12.0), 1 week ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
+- [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.11.2-rc.1](https://github.com/goharbor/harbor/releases/tag/v2.11.2-rc.1), today) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.14.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.14.0), 2 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
 #### 🔨 My recent Pull Requests
