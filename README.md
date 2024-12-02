@@ -29,6 +29,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [sakithb/media-controls](https://github.com/sakithb/media-controls) - A media indicator for the Gnome shell. (today)
 - [elastic/elastic-agent](https://github.com/elastic/elastic-agent) - Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host. (1 week ago)
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes (1 week ago)
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine (1 week ago)
@@ -38,7 +39,6 @@ Welcome to my GitHub profile!
 - [api-platform/api-platform](https://github.com/api-platform/api-platform) - 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. (3 weeks ago)
 - [matiasdelellis/facerecognition](https://github.com/matiasdelellis/facerecognition) - Nextcloud app that implement a basic facial recognition system. (3 weeks ago)
 - [matiasdelellis/facerecognition-external-model](https://github.com/matiasdelellis/facerecognition-external-model) - Nextcloud Facerecognition External Model (3 weeks ago)
-- [Schischu/hello_fresh_gewuerze](https://github.com/Schischu/hello_fresh_gewuerze) - Hello Fresh Gewürze (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
