@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 #### 🔭 Latest releases I've contributed to
 
 - [goharbor/harbor](https://github.com/goharbor/harbor) ([v2.11.2](https://github.com/goharbor/harbor/releases/tag/v2.11.2), 3 weeks ago) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.14.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.14.0), 2 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.14.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.14.0), 3 months ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 
 #### 🔨 My recent Pull Requests
 
@@ -29,10 +29,10 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (4 days ago)
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. (6 days ago)
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes (6 days ago)
-- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (6 days ago)
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  (5 days ago)
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. (1 week ago)
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes (1 week ago)
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (1 week ago)
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/ (1 week ago)
 - [sakithb/media-controls](https://github.com/sakithb/media-controls) - A media indicator for the Gnome shell. (1 week ago)
 - [elastic/elastic-agent](https://github.com/elastic/elastic-agent) - Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host. (3 weeks ago)
