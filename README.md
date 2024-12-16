@@ -12,7 +12,6 @@ Welcome to my GitHub profile!
 
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (6 months ago)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (1 year ago)
-- [goharbor/website](https://github.com/goharbor/website) - Source for the main Harbor website (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
