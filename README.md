@@ -39,11 +39,11 @@ Welcome to my GitHub profile!
 
 #### 👯 Check out some of my recent followers
 
+- [bludnic](https://github.com/bludnic)
 - [satyamkapoor](https://github.com/satyamkapoor)
 - [Farfaday](https://github.com/Farfaday)
 - [senthil28](https://github.com/senthil28)
 - [akinpelu746](https://github.com/akinpelu746)
-- [doublest](https://github.com/doublest)
 
 #### 💬 Feedback
 
