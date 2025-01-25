@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (7 months ago)
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
