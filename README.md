@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (today)
 - [bitwarden/helm-charts](https://github.com/bitwarden/helm-charts) -  (2 weeks ago)
 - [erpalma/throttled](https://github.com/erpalma/throttled) - Workaround for Intel throttling issues in Linux. (2 weeks ago)
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy (3 weeks ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (2 months ago)
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/ (2 months ago)
 - [sakithb/media-controls](https://github.com/sakithb/media-controls) - A media indicator for the Gnome shell. (2 months ago)
-- [elastic/elastic-agent](https://github.com/elastic/elastic-agent) - Elastic Agent - single, unified way to add monitoring for logs, metrics, and other types of data to a host. (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
