@@ -26,7 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (today)
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (1 day ago)
 - [bitwarden/helm-charts](https://github.com/bitwarden/helm-charts) -  (2 weeks ago)
 - [erpalma/throttled](https://github.com/erpalma/throttled) - Workaround for Intel throttling issues in Linux. (2 weeks ago)
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy (3 weeks ago)
@@ -35,7 +35,7 @@ Welcome to my GitHub profile!
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes (2 months ago)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (2 months ago)
 - [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/ (2 months ago)
-- [sakithb/media-controls](https://github.com/sakithb/media-controls) - A media indicator for the Gnome shell. (2 months ago)
+- [sakithb/media-controls](https://github.com/sakithb/media-controls) - A media indicator for the Gnome shell. (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
