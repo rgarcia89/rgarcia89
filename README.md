@@ -18,7 +18,7 @@ Welcome to my GitHub profile!
 
 #### 🔨 My recent Pull Requests
 
-- [Upgrade kube-rbac-proxy to v0.16.0](https://github.com/hashicorp/vault-secrets-operator/pull/881) on [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) (6 months ago)
+- [Upgrade kube-rbac-proxy to v0.16.0](https://github.com/hashicorp/vault-secrets-operator/pull/881) on [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) (7 months ago)
 - [Get latest version by tag if no release exists](https://github.com/prometheus-operator/kube-prometheus/pull/2435) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (9 months ago)
 - [Add condition to disable nginx even if not exposing via ingress](https://github.com/goharbor/harbor-helm/pull/1687) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (1 year ago)
 - [Add securityContext definitions on container level](https://github.com/goharbor/harbor-helm/pull/1673) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (1 year ago)
@@ -26,7 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (1 day ago)
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (2 days ago)
 - [bitwarden/helm-charts](https://github.com/bitwarden/helm-charts) -  (2 weeks ago)
 - [erpalma/throttled](https://github.com/erpalma/throttled) - Workaround for Intel throttling issues in Linux. (2 weeks ago)
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy (3 weeks ago)
@@ -34,7 +34,7 @@ Welcome to my GitHub profile!
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. (2 months ago)
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes (2 months ago)
 - [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror. (2 months ago)
-- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/ (2 months ago)
+- [rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/ (3 months ago)
 - [sakithb/media-controls](https://github.com/sakithb/media-controls) - A media indicator for the Gnome shell. (3 months ago)
 
 #### 👯 Check out some of my recent followers
