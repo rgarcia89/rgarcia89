@@ -26,7 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (3 days ago)
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (4 days ago)
 - [bitwarden/helm-charts](https://github.com/bitwarden/helm-charts) -  (3 weeks ago)
 - [erpalma/throttled](https://github.com/erpalma/throttled) - Workaround for Intel throttling issues in Linux. (3 weeks ago)
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy (3 weeks ago)
