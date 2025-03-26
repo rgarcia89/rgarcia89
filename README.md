@@ -5,6 +5,7 @@ Welcome to my GitHub profile!
 
 #### 🌱 My latest projects
 
+- [rgarcia89/make-argocd](https://github.com/rgarcia89/make-argocd) - 
 - [rgarcia89/sensu-go-manifests](https://github.com/rgarcia89/sensu-go-manifests) - all you need to setup a sensu-go backend cluster that uses an external etcd
 - [rgarcia89/sensu-go-oss](https://github.com/rgarcia89/sensu-go-oss) - Dockerfile to auto build latest sensu-go open source version
 
