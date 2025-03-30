@@ -1,5 +1,5 @@
 # Raúl Garcia Sanchez - @rgarcia89
-### Team Lead CloudOps @ [MeinAuto](https://meinauto.de/)
+### Lead Application Platform @ [DE-CIX](https://de-cix.net/)
 
 Welcome to my GitHub profile!
 
