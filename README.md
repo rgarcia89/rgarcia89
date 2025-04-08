@@ -26,10 +26,10 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [kubernetes/ingress-gce](https://github.com/kubernetes/ingress-gce) - Ingress controller for Google Cloud (2 days ago)
-- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. (4 days ago)
+- [kubernetes/ingress-gce](https://github.com/kubernetes/ingress-gce) - Ingress controller for Google Cloud (3 days ago)
+- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. (5 days ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (1 week ago)
-- [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror (2 weeks ago)
+- [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror (3 weeks ago)
 - [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (1 month ago)
 - [bitwarden/helm-charts](https://github.com/bitwarden/helm-charts) -  (1 month ago)
 - [erpalma/throttled](https://github.com/erpalma/throttled) - Workaround for Intel throttling issues in Linux. (1 month ago)
