@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. (today)
 - [CDN-guy/google-cdn-image-optimization](https://github.com/CDN-guy/google-cdn-image-optimization) -  (4 days ago)
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (5 days ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (1 week ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. (2 weeks ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes (2 weeks ago)
 - [sonatype/nexus-public](https://github.com/sonatype/nexus-public) - Sonatype Nexus Repository Open-source codebase mirror (1 month ago)
-- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
