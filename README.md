@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (10 months ago)
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -26,8 +26,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [pad-ws/pad.ws](https://github.com/pad-ws/pad.ws) - Whiteboard as an IDE, draw and code in your browser (3 days ago)
-- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. (4 days ago)
+- [pad-ws/pad.ws](https://github.com/pad-ws/pad.ws) - Whiteboard as an IDE, draw and code in your browser (4 days ago)
+- [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. (5 days ago)
 - [CDN-guy/google-cdn-image-optimization](https://github.com/CDN-guy/google-cdn-image-optimization) -  (1 week ago)
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (1 week ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (1 week ago)
