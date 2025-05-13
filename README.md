@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [grafana/meta-monitoring-chart](https://github.com/grafana/meta-monitoring-chart) - A meta-monitoring chart for GEL and Loki. (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (6 days ago)
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer (1 week ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. (3 weeks ago)
 - [CDN-guy/google-cdn-image-optimization](https://github.com/CDN-guy/google-cdn-image-optimization) -  (3 weeks ago)
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform (4 weeks ago)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
