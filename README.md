@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (today)
 - [8gears/n8n-helm-chart](https://github.com/8gears/n8n-helm-chart) - A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes (2 days ago)
 - [grafana/meta-monitoring-chart](https://github.com/grafana/meta-monitoring-chart) - A meta-monitoring chart for GEL and Loki. (3 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (3 weeks ago)
 - [pad-ws/pad.ws](https://github.com/pad-ws/pad.ws) - Whiteboard as an IDE, draw and code in your browser (3 weeks ago)
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. (3 weeks ago)
-- [CDN-guy/google-cdn-image-optimization](https://github.com/CDN-guy/google-cdn-image-optimization) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
