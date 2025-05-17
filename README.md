@@ -26,9 +26,9 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (today)
-- [8gears/n8n-helm-chart](https://github.com/8gears/n8n-helm-chart) - A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes (2 days ago)
-- [grafana/meta-monitoring-chart](https://github.com/grafana/meta-monitoring-chart) - A meta-monitoring chart for GEL and Loki. (3 days ago)
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (1 day ago)
+- [8gears/n8n-helm-chart](https://github.com/8gears/n8n-helm-chart) - A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes (3 days ago)
+- [grafana/meta-monitoring-chart](https://github.com/grafana/meta-monitoring-chart) - A meta-monitoring chart for GEL and Loki. (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 - [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer (2 weeks ago)
