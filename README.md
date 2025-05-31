@@ -25,9 +25,9 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [grafana/alloy-operator](https://github.com/grafana/alloy-operator) -  (4 days ago)
-- [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) -  (5 days ago)
-- [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (5 days ago)
+- [grafana/alloy-operator](https://github.com/grafana/alloy-operator) -  (5 days ago)
+- [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) -  (6 days ago)
+- [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (6 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (2 weeks ago)
 - [8gears/n8n-helm-chart](https://github.com/8gears/n8n-helm-chart) - A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes (2 weeks ago)
