@@ -25,6 +25,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state (today)
 - [grafana/alloy-operator](https://github.com/grafana/alloy-operator) -  (5 days ago)
 - [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) -  (6 days ago)
 - [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (6 days ago)
@@ -34,7 +35,6 @@ Welcome to my GitHub profile!
 - [grafana/meta-monitoring-chart](https://github.com/grafana/meta-monitoring-chart) - A meta-monitoring chart for GEL and Loki. (2 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 weeks ago)
-- [derailed/popeye](https://github.com/derailed/popeye) - 👀 A Kubernetes cluster resource sanitizer (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
