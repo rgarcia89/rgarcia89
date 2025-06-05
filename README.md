@@ -10,9 +10,11 @@ Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-73.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-73.2.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
