@@ -20,11 +20,11 @@ Welcome to my GitHub profile!
 - [Get latest version by tag if no release exists](https://github.com/prometheus-operator/kube-prometheus/pull/2435) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (1 year ago)
 - [Add condition to disable nginx even if not exposing via ingress](https://github.com/goharbor/harbor-helm/pull/1687) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (1 year ago)
 - [Add securityContext definitions on container level](https://github.com/goharbor/harbor-helm/pull/1673) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (1 year ago)
-- [add DE-CIX as adopters](https://github.com/goharbor/harbor/pull/19707) on [goharbor/harbor](https://github.com/goharbor/harbor) (1 year ago)
+- [add DE-CIX as adopters](https://github.com/goharbor/harbor/pull/19707) on [goharbor/harbor](https://github.com/goharbor/harbor) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state (4 days ago)
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, and actual cluster state (5 days ago)
 - [grafana/alloy-operator](https://github.com/grafana/alloy-operator) -  (1 week ago)
 - [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) -  (1 week ago)
 - [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (1 week ago)
