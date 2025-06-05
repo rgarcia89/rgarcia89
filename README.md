@@ -37,11 +37,11 @@ Welcome to my GitHub profile!
 
 #### 👯 Check out some of my recent followers
 
+- [webkueche](https://github.com/webkueche)
 - [AudMonte01](https://github.com/AudMonte01)
 - [bludnic](https://github.com/bludnic)
 - [satyamkapoor](https://github.com/satyamkapoor)
 - [Farfaday](https://github.com/Farfaday)
-- [senthil28](https://github.com/senthil28)
 
 #### 💬 Feedback
 
