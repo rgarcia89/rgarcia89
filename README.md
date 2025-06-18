@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.2.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.2.1), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -30,7 +30,7 @@ Welcome to my GitHub profile!
 - [grafana/alloy-operator](https://github.com/grafana/alloy-operator) -  (3 weeks ago)
 - [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) -  (3 weeks ago)
 - [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (3 weeks ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 weeks ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 month ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (1 month ago)
 - [8gears/n8n-helm-chart](https://github.com/8gears/n8n-helm-chart) - A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes (1 month ago)
 - [grafana/meta-monitoring-chart](https://github.com/grafana/meta-monitoring-chart) - A meta-monitoring chart for GEL and Loki. (1 month ago)
