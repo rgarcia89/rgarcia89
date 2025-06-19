@@ -10,15 +10,15 @@ Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.3.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.3.3), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] Make namespace selector operator configurable](https://github.com/prometheus-community/helm-charts/pull/5742) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [[kube-prometheus-stack] Make namespace selector operator configurable](https://github.com/prometheus-community/helm-charts/pull/5742) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [Upgrade kube-rbac-proxy to v0.16.0](https://github.com/hashicorp/vault-secrets-operator/pull/881) on [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) (10 months ago)
 - [Get latest version by tag if no release exists](https://github.com/prometheus-operator/kube-prometheus/pull/2435) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (1 year ago)
 - [Add condition to disable nginx even if not exposing via ingress](https://github.com/goharbor/harbor-helm/pull/1687) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (1 year ago)
