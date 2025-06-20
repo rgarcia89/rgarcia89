@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.15.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.15.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.15.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.15.2), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
