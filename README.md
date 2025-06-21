@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.12.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.8.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
