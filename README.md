@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.13.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.13.0), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -27,7 +27,7 @@ Welcome to my GitHub profile!
 #### ⭐ Recent Stars
 
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (3 weeks ago)
-- [grafana/alloy-operator](https://github.com/grafana/alloy-operator) -  (3 weeks ago)
+- [grafana/alloy-operator](https://github.com/grafana/alloy-operator) -  (4 weeks ago)
 - [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) -  (4 weeks ago)
 - [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (4 weeks ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 month ago)
