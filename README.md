@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-consul-exporter-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-consul-exporter-1.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.7.2), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
