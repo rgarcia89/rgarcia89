@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Provider for Google Cloud Platform (today)
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (2 weeks ago)
 - [same7ammar/kube-composer](https://github.com/same7ammar/kube-composer) - Open-Source Kubernetes YAML Builder with Intuitive Web Interface and Dynamic Visualization for Developers and DevOps Engineers (2 weeks ago)
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port forward manager, with support for UDP and proxy connections through k8s clusters  (3 weeks ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (1 month ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 month ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (1 month ago)
-- [8gears/n8n-helm-chart](https://github.com/8gears/n8n-helm-chart) - A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
