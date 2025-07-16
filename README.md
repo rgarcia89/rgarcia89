@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.11.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.9.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -26,7 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Provider for Google Cloud Platform (1 day ago)
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Provider for Google Cloud Platform (2 days ago)
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (2 weeks ago)
 - [same7ammar/kube-composer](https://github.com/same7ammar/kube-composer) - Open-Source Kubernetes YAML Builder with Intuitive Web Interface and Dynamic Visualization for Developers and DevOps Engineers (3 weeks ago)
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port-forward manager | enables traffic inspection, udp support, proxy connections through k8s clusters and handles state via local files or git repos (3 weeks ago)
