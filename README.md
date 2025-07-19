@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.13.3](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.13.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.47.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.47.2), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
