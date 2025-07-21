@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [k8sstormcenter/bobctl](https://github.com/k8sstormcenter/bobctl) - Software Bill of Behaviour: A vendor-supplied profile of runtime behaviors for software, designed to be distributed directly within OCI artifacts. (today)
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Provider for Google Cloud Platform (1 week ago)
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (3 weeks ago)
 - [same7ammar/kube-composer](https://github.com/same7ammar/kube-composer) - Open-Source Kubernetes YAML Builder with Intuitive Web Interface and Dynamic Visualization for Developers and DevOps Engineers (3 weeks ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) -  (1 month ago)
 - [treee111/wahooMapsCreator](https://github.com/treee111/wahooMapsCreator) - Create maps for Wahoo device based on latest OSM maps (1 month ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 months ago)
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
