@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.0), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -26,11 +26,11 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (today)
-- [k8sstormcenter/bobctl](https://github.com/k8sstormcenter/bobctl) - Software Bill of Behaviour: A vendor-supplied profile of runtime behaviors for software, designed to be distributed directly within OCI artifacts. (today)
+- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (1 day ago)
+- [k8sstormcenter/bobctl](https://github.com/k8sstormcenter/bobctl) - Software Bill of Behaviour: A vendor-supplied profile of runtime behaviors for software, designed to be distributed directly within OCI artifacts. (1 day ago)
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Provider for Google Cloud Platform (1 week ago)
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (3 weeks ago)
-- [same7ammar/kube-composer](https://github.com/same7ammar/kube-composer) - Open-Source Kubernetes YAML Builder with Intuitive Web Interface and Dynamic Visualization for Developers and DevOps Engineers (3 weeks ago)
+- [same7ammar/kube-composer](https://github.com/same7ammar/kube-composer) - Open-Source Kubernetes YAML Builder with Intuitive Web Interface and Dynamic Visualization for Developers and DevOps Engineers (4 weeks ago)
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port-forward manager with traffic inspection, udp support, proxy connections through k8s clusters and state via local files or git repos (4 weeks ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (1 month ago)
 - [grafana/alloy-operator](https://github.com/grafana/alloy-operator) -  (1 month ago)
