@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (today)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (2 days ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (5 days ago)
 - [k8sstormcenter/bobctl](https://github.com/k8sstormcenter/bobctl) - Software Bill of Behaviour: A vendor-supplied profile of runtime behaviors for software, designed to be distributed directly within OCI artifacts. (5 days ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - 🦀 ⚡ kubectl port-forward manager with traffic inspection, udp support, proxy connections through k8s clusters and state via local files or git repos (1 month ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (1 month ago)
 - [grafana/alloy-operator](https://github.com/grafana/alloy-operator) -  (2 months ago)
-- [grafana/k8s-monitoring-helm](https://github.com/grafana/k8s-monitoring-helm) -  (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
