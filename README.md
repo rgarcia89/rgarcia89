@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.20.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.12.1), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
