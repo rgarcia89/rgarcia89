@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.6.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.29.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
