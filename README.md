@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.2.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.10.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.10.3), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
