@@ -26,6 +26,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents (today)
+- [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources (today)
 - [form3tech-oss/platform-interview](https://github.com/form3tech-oss/platform-interview) - Form3 Platform Interview (1 day ago)
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (2 days ago)
 - [superstreamlabs/kafka-analyzer](https://github.com/superstreamlabs/kafka-analyzer) - Interactive CLI for analyzing Kafka health and configuration according to best practices and industry standards. (3 days ago)
@@ -34,8 +36,6 @@ Welcome to my GitHub profile!
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 week ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (1 week ago)
 - [k8sstormcenter/bobctl](https://github.com/k8sstormcenter/bobctl) - Software Bill of Behaviour: A vendor-supplied profile of runtime behaviors for software, designed to be distributed directly within OCI artifacts. (1 week ago)
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Provider for Google Cloud Platform (2 weeks ago)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
