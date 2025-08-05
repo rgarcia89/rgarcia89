@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.15.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.15.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.15.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.15.2), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -26,13 +26,13 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [nce/oci-free-cloud-k8s](https://github.com/nce/oci-free-cloud-k8s) - always free kubernetes on oracle cloud (today)
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents (2 days ago)
-- [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources (2 days ago)
-- [form3tech-oss/platform-interview](https://github.com/form3tech-oss/platform-interview) - Form3 Platform Interview (3 days ago)
-- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (4 days ago)
-- [superstreamlabs/kafka-analyzer](https://github.com/superstreamlabs/kafka-analyzer) - Interactive CLI for analyzing Kafka health and configuration according to best practices and industry standards. (5 days ago)
-- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (6 days ago)
+- [nce/oci-free-cloud-k8s](https://github.com/nce/oci-free-cloud-k8s) - always free kubernetes on oracle cloud (1 day ago)
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents (3 days ago)
+- [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources (3 days ago)
+- [form3tech-oss/platform-interview](https://github.com/form3tech-oss/platform-interview) - Form3 Platform Interview (4 days ago)
+- [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing (5 days ago)
+- [superstreamlabs/kafka-analyzer](https://github.com/superstreamlabs/kafka-analyzer) - Interactive CLI for analyzing Kafka health and configuration according to best practices and industry standards. (6 days ago)
+- [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems (1 week ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 week ago)
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM (1 week ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (2 weeks ago)
