@@ -26,7 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [molnett/neon-operator](https://github.com/molnett/neon-operator) - Kubernetes operator for managing self-hosted Neon Postgres database clusters. This operator enables you to manage all necessary compoents of Neon&#39;s control plane on Kubernetes (in cloud and on-premises). (4 days ago)
+- [molnett/neon-operator](https://github.com/molnett/neon-operator) - Kubernetes operator for managing self-hosted Neon Postgres database clusters. This operator enables you to manage all necessary components of Neon&#39;s control plane on Kubernetes (in cloud and on-premises). (4 days ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (5 days ago)
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We&#39;re a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social (5 days ago)
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM. (5 days ago)
