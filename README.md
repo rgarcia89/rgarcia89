@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-2.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-76.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-76.4.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
