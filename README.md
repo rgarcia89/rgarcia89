@@ -39,7 +39,7 @@ Welcome to my GitHub profile!
 
 #### 👯 Check out some of my recent followers
 
-- [webkueche](https://github.com/webkueche)
+- [adams-patrick](https://github.com/adams-patrick)
 - [AudMonte01](https://github.com/AudMonte01)
 - [bludnic](https://github.com/bludnic)
 - [satyamkapoor](https://github.com/satyamkapoor)
