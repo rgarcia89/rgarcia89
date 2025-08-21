@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (today)
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (1 week ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 week ago)
 - [molnett/neon-operator](https://github.com/molnett/neon-operator) - Kubernetes operator for managing self-hosted Neon Postgres database clusters. This operator enables you to manage all necessary components of Neon&#39;s control plane on Kubernetes (in cloud and on-premises). (1 week ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [nce/oci-free-cloud-k8s](https://github.com/nce/oci-free-cloud-k8s) - always free kubernetes on oracle cloud (2 weeks ago)
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents (2 weeks ago)
 - [ashishps1/learn-ai-engineering](https://github.com/ashishps1/learn-ai-engineering) - Learn AI and LLMs from scratch using free resources (2 weeks ago)
-- [form3tech-oss/platform-interview](https://github.com/form3tech-oss/platform-interview) - Form3 Platform Interview (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
