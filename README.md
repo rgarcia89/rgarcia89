@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (today)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (4 days ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (4 days ago)
 - [moabukar/tech-vault](https://github.com/moabukar/tech-vault) - A list of many interview questions &amp; real-world challenges in Tech! (https://tech-vault-web.vercel.app/) (5 days ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [molnett/neon-operator](https://github.com/molnett/neon-operator) - Kubernetes operator for managing self-hosted Neon Postgres database clusters. This operator enables you to manage all necessary components of Neon&#39;s control plane on Kubernetes (in cloud and on-premises). (3 weeks ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (3 weeks ago)
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social (3 weeks ago)
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning &amp; Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
