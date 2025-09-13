@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm (today)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (1 week ago)
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (1 week ago)
 - [rgarcia89/workwell](https://github.com/rgarcia89/workwell) -  (2 weeks ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [moabukar/tech-vault](https://github.com/moabukar/tech-vault) - A list of many interview questions &amp; real-world challenges in Tech! (https://tech-vault-web.vercel.app/) (2 weeks ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (3 weeks ago)
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (1 month ago)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
