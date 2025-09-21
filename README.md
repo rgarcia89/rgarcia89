@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.18.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.39.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.39.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
