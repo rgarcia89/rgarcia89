@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.10.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.10.0), 2 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -33,7 +33,7 @@ Welcome to my GitHub profile!
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (3 weeks ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (3 weeks ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (3 weeks ago)
-- [moabukar/tech-vault](https://github.com/moabukar/tech-vault) - A list of many interview questions &amp; real-world challenges in Tech! (https://tech-vault-web.vercel.app/) (3 weeks ago)
+- [moabukar/tech-vault](https://github.com/moabukar/tech-vault) - A list of many interview questions &amp; real-world challenges in Tech! (https://tech-vault-web.vercel.app/) (4 weeks ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 month ago)
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests &#34;Just Right&#34; (1 month ago)
 
