@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-3.0.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-3.0.0), 2 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -26,8 +26,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 days ago)
-- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: (2 days ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (3 days ago)
+- [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: (3 days ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm (1 week ago)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (2 weeks ago)
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (3 weeks ago)
