@@ -10,15 +10,15 @@ Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 months ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-7.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-7.3.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-7.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-7.3.0), 2 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] Make namespace selector operator configurable](https://github.com/prometheus-community/helm-charts/pull/5742) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 months ago)
+- [[kube-prometheus-stack] Make namespace selector operator configurable](https://github.com/prometheus-community/helm-charts/pull/5742) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 months ago)
 - [Upgrade kube-rbac-proxy to v0.16.0](https://github.com/hashicorp/vault-secrets-operator/pull/881) on [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) (1 year ago)
 - [Get latest version by tag if no release exists](https://github.com/prometheus-operator/kube-prometheus/pull/2435) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (1 year ago)
 - [Add condition to disable nginx even if not exposing via ingress](https://github.com/goharbor/harbor-helm/pull/1687) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (2 years ago)
@@ -26,12 +26,12 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) - Practical marketing resources to get the first 10/100/1000 users for your SaaS/App/Startup (4 days ago)
+- [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) - Practical marketing resources to get the first 10/100/1000 users for your SaaS/App/Startup (5 days ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (1 week ago)
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: (1 week ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm (2 weeks ago)
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (3 weeks ago)
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (4 weeks ago)
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (4 weeks ago)
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (1 month ago)
 - [rgarcia89/workwell](https://github.com/rgarcia89/workwell) -  (1 month ago)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.  (1 month ago)
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 month ago)
