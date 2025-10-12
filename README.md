@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-druid-exporter-1.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-druid-exporter-1.2.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-druid-exporter-1.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-druid-exporter-1.2.0), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -26,8 +26,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system (3 days ago)
-- [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) - Practical marketing resources to get the first 10/100/1000 users for your SaaS/App/Startup (1 week ago)
+- [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system (4 days ago)
+- [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) - Practical marketing resources to get the first 10/100/1000 users for your SaaS/App/Startup (2 weeks ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 weeks ago)
 - [plotly/plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python :sparkles: (2 weeks ago)
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm (4 weeks ago)
