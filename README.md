@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.8.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.40.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.40.1), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
