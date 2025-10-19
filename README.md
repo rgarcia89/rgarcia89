@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (today)
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don&#39;t change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (2 days ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (5 days ago)
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system (1 week ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm (1 month ago)
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework (1 month ago)
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. (1 month ago)
-- [rgarcia89/workwell](https://github.com/rgarcia89/workwell) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
