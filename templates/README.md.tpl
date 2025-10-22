@@ -1,5 +1,5 @@
 # Raúl Garcia Sanchez - @rgarcia89
-### Team Lead CloudOps @ [MeinAuto](https://meinauto.de/)
+### Principle DevOps Engineer@ [FNZ](https://fnz.com/)
 
 Welcome to my GitHub profile!
 
