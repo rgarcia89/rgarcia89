@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.4.2), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.4.2), 2 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -26,7 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (4 days ago)
+- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (5 days ago)
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit (1 week ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (1 week ago)
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don&#39;t change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (2 weeks ago)
