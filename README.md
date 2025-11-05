@@ -1,5 +1,5 @@
 # Raúl Garcia Sanchez - @rgarcia89
-### Principle DevOps Engineer@ [FNZ](https://fnz.com/)
+### Principle DevOps Engineer @[FNZ](https://fnz.com/)
 
 Welcome to my GitHub profile!
 
