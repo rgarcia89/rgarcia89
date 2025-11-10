@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.4.1), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.4.1), 2 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -26,9 +26,9 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (4 days ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (5 days ago)
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (1 week ago)
-- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (1 week ago)
+- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (2 weeks ago)
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit (2 weeks ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (3 weeks ago)
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don&#39;t change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (3 weeks ago)
