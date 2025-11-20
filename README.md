@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.5.0), 1 week ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.6.1), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -26,11 +26,11 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge. (3 days ago)
-- [rgarcia89/kubernetes](https://github.com/rgarcia89/kubernetes) -  (4 days ago)
-- [rgarcia89/rgarcia89](https://github.com/rgarcia89/rgarcia89) -  (4 days ago)
-- [rgarcia89/caddy](https://github.com/rgarcia89/caddy) -  (4 days ago)
-- [rgarcia89/stockfolio](https://github.com/rgarcia89/stockfolio) -  (4 days ago)
+- [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge. (4 days ago)
+- [rgarcia89/kubernetes](https://github.com/rgarcia89/kubernetes) -  (5 days ago)
+- [rgarcia89/rgarcia89](https://github.com/rgarcia89/rgarcia89) -  (5 days ago)
+- [rgarcia89/caddy](https://github.com/rgarcia89/caddy) -  (5 days ago)
+- [rgarcia89/stockfolio](https://github.com/rgarcia89/stockfolio) -  (5 days ago)
 - [lixiangzhong/dnsutil](https://github.com/lixiangzhong/dnsutil) -  dns dig for golang (1 week ago)
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 weeks ago)
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (2 weeks ago)
