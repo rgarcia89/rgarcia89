@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.8.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.8.2), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -26,15 +26,15 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (4 days ago)
-- [arkmq-org/activemq-artemis-operator](https://github.com/arkmq-org/activemq-artemis-operator) -  (4 days ago)
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (5 days ago)
+- [arkmq-org/activemq-artemis-operator](https://github.com/arkmq-org/activemq-artemis-operator) -  (5 days ago)
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge. (1 week ago)
 - [rgarcia89/kubernetes](https://github.com/rgarcia89/kubernetes) -  (1 week ago)
 - [rgarcia89/rgarcia89](https://github.com/rgarcia89/rgarcia89) -  (1 week ago)
 - [rgarcia89/caddy](https://github.com/rgarcia89/caddy) -  (1 week ago)
 - [rgarcia89/stockfolio](https://github.com/rgarcia89/stockfolio) -  (1 week ago)
 - [lixiangzhong/dnsutil](https://github.com/lixiangzhong/dnsutil) -  dns dig for golang (2 weeks ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (2 weeks ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 weeks ago)
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
