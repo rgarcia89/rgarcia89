@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.11.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-79.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-79.11.0), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -34,7 +34,7 @@ Welcome to my GitHub profile!
 - [rgarcia89/caddy](https://github.com/rgarcia89/caddy) -  (2 weeks ago)
 - [rgarcia89/stockfolio](https://github.com/rgarcia89/stockfolio) -  (2 weeks ago)
 - [lixiangzhong/dnsutil](https://github.com/lixiangzhong/dnsutil) -  dns dig for golang (3 weeks ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (3 weeks ago)
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (4 weeks ago)
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. (1 month ago)
 
 #### 👯 Check out some of my recent followers
