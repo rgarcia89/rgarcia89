@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (today)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (5 days ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (2 weeks ago)
 - [arkmq-org/activemq-artemis-operator](https://github.com/arkmq-org/activemq-artemis-operator) -  (2 weeks ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [rgarcia89/caddy](https://github.com/rgarcia89/caddy) -  (3 weeks ago)
 - [rgarcia89/stockfolio](https://github.com/rgarcia89/stockfolio) -  (3 weeks ago)
 - [lixiangzhong/dnsutil](https://github.com/lixiangzhong/dnsutil) -  dns dig for golang (4 weeks ago)
-- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
