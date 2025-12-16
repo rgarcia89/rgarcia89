@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (today)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (1 week ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (1 week ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (3 weeks ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [rgarcia89/rgarcia89](https://github.com/rgarcia89/rgarcia89) -  (1 month ago)
 - [rgarcia89/caddy](https://github.com/rgarcia89/caddy) -  (1 month ago)
 - [rgarcia89/stockfolio](https://github.com/rgarcia89/stockfolio) -  (1 month ago)
-- [lixiangzhong/dnsutil](https://github.com/lixiangzhong/dnsutil) -  dns dig for golang (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
