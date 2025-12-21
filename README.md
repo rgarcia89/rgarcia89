@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.6.0), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.12.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
