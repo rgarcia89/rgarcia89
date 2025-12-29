@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [bgpkit/monocle](https://github.com/bgpkit/monocle) - 🧐 See through all BGP data with a monocle. (today)
 - [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers  (1 day ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (1 week ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (2 weeks ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge. (1 month ago)
 - [rgarcia89/kubernetes](https://github.com/rgarcia89/kubernetes) -  (1 month ago)
 - [rgarcia89/rgarcia89](https://github.com/rgarcia89/rgarcia89) -  (1 month ago)
-- [rgarcia89/caddy](https://github.com/rgarcia89/caddy) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
