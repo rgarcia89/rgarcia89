@@ -26,6 +26,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices. (today)
 - [bgpkit/monocle](https://github.com/bgpkit/monocle) - 🧐 See through all BGP data with a monocle. (4 days ago)
 - [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers  (5 days ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (2 weeks ago)
@@ -35,7 +36,6 @@ Welcome to my GitHub profile!
 - [arkmq-org/activemq-artemis-operator](https://github.com/arkmq-org/activemq-artemis-operator) -  (1 month ago)
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge. (1 month ago)
 - [rgarcia89/kubernetes](https://github.com/rgarcia89/kubernetes) -  (1 month ago)
-- [rgarcia89/rgarcia89](https://github.com/rgarcia89/rgarcia89) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
