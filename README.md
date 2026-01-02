@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.0.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.0.0), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -26,8 +26,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [bgpkit/monocle](https://github.com/bgpkit/monocle) - 🧐 See through all BGP data with a monocle. (3 days ago)
-- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers  (4 days ago)
+- [bgpkit/monocle](https://github.com/bgpkit/monocle) - 🧐 See through all BGP data with a monocle. (4 days ago)
+- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers  (5 days ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (2 weeks ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (3 weeks ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management. (4 weeks ago)
