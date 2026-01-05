@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.10.0), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.10.0), 3 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -26,8 +26,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices. (2 days ago)
-- [bgpkit/monocle](https://github.com/bgpkit/monocle) - 🧐 See through all BGP data with a monocle. (6 days ago)
+- [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices. (3 days ago)
+- [bgpkit/monocle](https://github.com/bgpkit/monocle) - 🧐 See through all BGP data with a monocle. (1 week ago)
 - [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers  (1 week ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. (2 weeks ago)
 - [k8up-io/k8up](https://github.com/k8up-io/k8up) - Kubernetes and OpenShift Backup Operator (3 weeks ago)
