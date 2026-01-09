@@ -5,11 +5,13 @@ Welcome to my GitHub profile!
 
 #### 🌱 My latest projects
 
+- [rgarcia89/helm-intro](https://github.com/rgarcia89/helm-intro) - 
 - [rgarcia89/sensu-go-manifests](https://github.com/rgarcia89/sensu-go-manifests) - all you need to setup a sensu-go backend cluster that uses an external etcd
 - [rgarcia89/sensu-go-oss](https://github.com/rgarcia89/sensu-go-oss) - Dockerfile to auto build latest sensu-go open source version
 
 #### 👷 Check out what I'm currently working on
 
+- [rgarcia89/helm-intro](https://github.com/rgarcia89/helm-intro) -  (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
