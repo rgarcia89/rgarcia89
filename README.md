@@ -11,12 +11,12 @@ Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
-- [rgarcia89/helm-intro](https://github.com/rgarcia89/helm-intro) -  (today)
+- [rgarcia89/helm-intro](https://github.com/rgarcia89/helm-intro) -  (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.3.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.3.0), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
