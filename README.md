@@ -11,12 +11,12 @@ Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
-- [rgarcia89/helm-intro](https://github.com/rgarcia89/helm-intro) -  (4 days ago)
+- [rgarcia89/helm-intro](https://github.com/rgarcia89/helm-intro) -  (5 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.14.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.14.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.14.1), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
@@ -37,7 +37,7 @@ Welcome to my GitHub profile!
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (1 month ago)
 - [arkmq-org/activemq-artemis-operator](https://github.com/arkmq-org/activemq-artemis-operator) -  (1 month ago)
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge. (1 month ago)
-- [rgarcia89/kubernetes](https://github.com/rgarcia89/kubernetes) -  (1 month ago)
+- [rgarcia89/kubernetes](https://github.com/rgarcia89/kubernetes) -  (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
