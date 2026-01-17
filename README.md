@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.4.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.4.5), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-28.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-28.5.0), today) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
