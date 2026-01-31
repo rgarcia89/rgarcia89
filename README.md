@@ -13,16 +13,16 @@ Welcome to my GitHub profile!
 
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor (1 week ago)
 - [rgarcia89/helm-intro](https://github.com/rgarcia89/helm-intro) -  (3 weeks ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (7 months ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (8 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.4.2), today) - Prometheus community Helm charts
-- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.2](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.2), 3 days ago) - The helm chart to deploy Harbor
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-81.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-81.4.2), 1 day ago) - Prometheus community Helm charts
+- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.2](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.2), 4 days ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] Make namespace selector operator configurable](https://github.com/prometheus-community/helm-charts/pull/5742) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (7 months ago)
+- [[kube-prometheus-stack] Make namespace selector operator configurable](https://github.com/prometheus-community/helm-charts/pull/5742) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (8 months ago)
 - [Upgrade kube-rbac-proxy to v0.16.0](https://github.com/hashicorp/vault-secrets-operator/pull/881) on [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) (2 years ago)
 - [Get latest version by tag if no release exists](https://github.com/prometheus-operator/kube-prometheus/pull/2435) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (2 years ago)
 - [Add condition to disable nginx even if not exposing via ingress](https://github.com/goharbor/harbor-helm/pull/1687) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (2 years ago)
