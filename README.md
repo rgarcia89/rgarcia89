@@ -46,7 +46,7 @@ Welcome to my GitHub profile!
 - [FTCHD](https://github.com/FTCHD)
 - [helallao](https://github.com/helallao)
 - [sbreitf1](https://github.com/sbreitf1)
-- [adams-patrick](https://github.com/adams-patrick)
+- [patrick-adams-git](https://github.com/patrick-adams-git)
 - [AudMonte01](https://github.com/AudMonte01)
 
 #### 💬 Feedback
