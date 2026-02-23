@@ -30,6 +30,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [sebastianvkl/pizero-openclaw](https://github.com/sebastianvkl/pizero-openclaw) -  (today)
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible (3 days ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (5 days ago)
 - [hamedbaatour/minimus](https://github.com/hamedbaatour/minimus) - 🌦️ A fully featured production ready Angular weather app (tutorial) (1 week ago)
@@ -39,7 +40,6 @@ Welcome to my GitHub profile!
 - [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries (2 weeks ago)
 - [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices. (1 month ago)
 - [bgpkit/monocle](https://github.com/bgpkit/monocle) - 🧐 See through all BGP data with a monocle. (1 month ago)
-- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
