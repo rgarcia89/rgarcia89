@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.2), 1 day ago) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.2](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.2), 1 month ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
@@ -30,9 +30,9 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (today)
-- [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (today)
-- [yury-egorenkov/claude-code-docker](https://github.com/yury-egorenkov/claude-code-docker) - Quickly run Claude code in a container—minimal setup required. (5 days ago)
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (1 day ago)
+- [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (1 day ago)
+- [yury-egorenkov/claude-code-docker](https://github.com/yury-egorenkov/claude-code-docker) - Quickly run Claude code in a container—minimal setup required. (6 days ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 week ago)
 - [sebastianvkl/pizero-openclaw](https://github.com/sebastianvkl/pizero-openclaw) -  (2 weeks ago)
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible (2 weeks ago)
