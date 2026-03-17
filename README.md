@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.10.5](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.10.5), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.10.5](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.10.5), 1 day ago) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.2](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.2), 1 month ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
@@ -30,9 +30,9 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (3 days ago)
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (5 days ago)
-- [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (5 days ago)
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (4 days ago)
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (6 days ago)
+- [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (6 days ago)
 - [yury-egorenkov/claude-code-docker](https://github.com/yury-egorenkov/claude-code-docker) - Quickly run Claude code in a container—minimal setup required. (1 week ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (2 weeks ago)
 - [sebastianvkl/pizero-openclaw](https://github.com/sebastianvkl/pizero-openclaw) -  (3 weeks ago)
