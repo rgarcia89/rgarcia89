@@ -30,6 +30,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (today)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (today)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 day ago)
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (1 week ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (1 week ago)
@@ -38,8 +40,6 @@ Welcome to my GitHub profile!
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (2 weeks ago)
 - [sebastianvkl/pizero-openclaw](https://github.com/sebastianvkl/pizero-openclaw) -  (3 weeks ago)
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) - A Kubernetes web UI that is fully-featured, user-friendly and extensible (4 weeks ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 month ago)
-- [hamedbaatour/minimus](https://github.com/hamedbaatour/minimus) - 🌦️ A fully featured production ready Angular weather app (tutorial) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
