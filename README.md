@@ -11,14 +11,14 @@ Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
-- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor (1 month ago)
+- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor (2 months ago)
 - [rgarcia89/helm-intro](https://github.com/rgarcia89/helm-intro) -  (2 months ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (9 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.6), today) - Prometheus community Helm charts
-- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.3), 1 day ago) - The helm chart to deploy Harbor
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.20.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.20.6), 1 day ago) - Prometheus community Helm charts
+- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.3), 2 days ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
 
@@ -30,9 +30,9 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (today)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (today)
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 day ago)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 day ago)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (1 day ago)
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 days ago)
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (1 week ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (1 week ago)
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (1 week ago)
