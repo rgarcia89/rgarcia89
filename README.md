@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.15.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.15.0), 1 day ago) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.3), 1 week ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
@@ -30,15 +30,15 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller) - This repository contains a Kubernetes controller that manages node taints based on multiple readiness conditions, providing fine-grained control over when nodes are ready to accept workloads. (today)
-- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (2 days ago)
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (6 days ago)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (6 days ago)
+- [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller) - This repository contains a Kubernetes controller that manages node taints based on multiple readiness conditions, providing fine-grained control over when nodes are ready to accept workloads. (1 day ago)
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (3 days ago)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 week ago)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (1 week ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 week ago)
-- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (1 week ago)
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (2 weeks ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (2 weeks ago)
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (2 weeks ago)
-- [yury-egorenkov/claude-code-docker](https://github.com/yury-egorenkov/claude-code-docker) - Quickly run Claude code in a container—minimal setup required. (2 weeks ago)
+- [yury-egorenkov/claude-code-docker](https://github.com/yury-egorenkov/claude-code-docker) - Quickly run Claude code in a container—minimal setup required. (3 weeks ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
