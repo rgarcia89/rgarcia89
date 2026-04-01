@@ -13,16 +13,16 @@ Welcome to my GitHub profile!
 
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor (2 months ago)
 - [rgarcia89/helm-intro](https://github.com/rgarcia89/helm-intro) -  (2 months ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (9 months ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.16.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.16.0), 1 day ago) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.3), 1 week ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] Make namespace selector operator configurable](https://github.com/prometheus-community/helm-charts/pull/5742) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (9 months ago)
+- [[kube-prometheus-stack] Make namespace selector operator configurable](https://github.com/prometheus-community/helm-charts/pull/5742) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (10 months ago)
 - [Upgrade kube-rbac-proxy to v0.16.0](https://github.com/hashicorp/vault-secrets-operator/pull/881) on [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) (2 years ago)
 - [Get latest version by tag if no release exists](https://github.com/prometheus-operator/kube-prometheus/pull/2435) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (2 years ago)
 - [Add condition to disable nginx even if not exposing via ingress](https://github.com/goharbor/harbor-helm/pull/1687) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (2 years ago)
@@ -30,16 +30,16 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer) -  (3 days ago)
-- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) - GitOps Environment Promotion tool that lets you focus on the &#34;what,&#34; not the &#34;how&#34; (4 days ago)
-- [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller) - This repository contains a Kubernetes controller that manages node taints based on multiple readiness conditions, providing fine-grained control over when nodes are ready to accept workloads. (5 days ago)
+- [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer) -  (4 days ago)
+- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) - GitOps Environment Promotion tool that lets you focus on the &#34;what,&#34; not the &#34;how&#34; (5 days ago)
+- [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller) - This repository contains a Kubernetes controller that manages node taints based on multiple readiness conditions, providing fine-grained control over when nodes are ready to accept workloads. (6 days ago)
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (1 week ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 week ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (1 week ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 week ago)
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (2 weeks ago)
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (2 weeks ago)
-- [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (2 weeks ago)
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (3 weeks ago)
+- [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
