@@ -43,11 +43,11 @@ Welcome to my GitHub profile!
 
 #### 👯 Check out some of my recent followers
 
-- [helallao](https://github.com/helallao)
 - [sbreitf1](https://github.com/sbreitf1)
 - [patrick-adams-git](https://github.com/patrick-adams-git)
 - [AudMonte01](https://github.com/AudMonte01)
 - [bludnic](https://github.com/bludnic)
+- [satyamkapoor](https://github.com/satyamkapoor)
 
 #### 💬 Feedback
 
