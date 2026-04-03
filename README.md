@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.16.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.16.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-82.16.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-82.16.2), 1 day ago) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.3), 2 weeks ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
@@ -30,14 +30,14 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer) -  (5 days ago)
-- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) - GitOps Environment Promotion tool that lets you focus on the &#34;what,&#34; not the &#34;how&#34; (6 days ago)
+- [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer) -  (6 days ago)
+- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) - GitOps Environment Promotion tool that lets you focus on the &#34;what,&#34; not the &#34;how&#34; (1 week ago)
 - [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller) - This repository contains a Kubernetes controller that manages node taints based on multiple readiness conditions, providing fine-grained control over when nodes are ready to accept workloads. (1 week ago)
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (1 week ago)
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 week ago)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (1 week ago)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (2 weeks ago)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (2 weeks ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 weeks ago)
-- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (2 weeks ago)
+- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (3 weeks ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (3 weeks ago)
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (3 weeks ago)
 
