@@ -30,6 +30,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [mirceanton/home-ops](https://github.com/mirceanton/home-ops) - Monorepo to manage my Home Lab k8s cluster. (today)
 - [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer) -  (1 week ago)
 - [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) - GitOps Environment Promotion tool that lets you focus on the &#34;what,&#34; not the &#34;how&#34; (1 week ago)
 - [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller) - This repository contains a Kubernetes controller that manages node taints based on multiple readiness conditions, providing fine-grained control over when nodes are ready to accept workloads. (1 week ago)
@@ -39,7 +40,6 @@ Welcome to my GitHub profile!
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 weeks ago)
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (3 weeks ago)
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (3 weeks ago)
-- [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
