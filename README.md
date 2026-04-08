@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-83.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-83.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.5.0), today) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.3), 2 weeks ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
@@ -30,6 +30,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease. (today)
 - [mirceanton/home-ops](https://github.com/mirceanton/home-ops) - Monorepo to manage my Home Lab k8s cluster. (3 days ago)
 - [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer) -  (1 week ago)
 - [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) - GitOps Environment Promotion tool that lets you focus on the &#34;what,&#34; not the &#34;how&#34; (1 week ago)
@@ -39,7 +40,6 @@ Welcome to my GitHub profile!
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (2 weeks ago)
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 weeks ago)
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework (3 weeks ago)
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
