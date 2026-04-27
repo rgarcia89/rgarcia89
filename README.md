@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-84.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-84.1.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-84.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-84.1.2), today) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.3](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.3), 1 month ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
@@ -30,10 +30,10 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [edgard/home-ops](https://github.com/edgard/home-ops) - Home infra and lab configuration (today)
+- [edgard/home-ops](https://github.com/edgard/home-ops) - Home infra and lab configuration (1 day ago)
 - [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease. (2 weeks ago)
 - [mirceanton/home-ops](https://github.com/mirceanton/home-ops) - Monorepo to manage my Home Lab k8s cluster. (3 weeks ago)
-- [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer) -  (4 weeks ago)
+- [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer) -  (1 month ago)
 - [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) - GitOps Environment Promotion tool that lets you focus on the &#34;what,&#34; not the &#34;how&#34; (1 month ago)
 - [kubernetes-sigs/node-readiness-controller](https://github.com/kubernetes-sigs/node-readiness-controller) - This repository contains a Kubernetes controller that manages node taints based on multiple readiness conditions, providing fine-grained control over when nodes are ready to accept workloads. (1 month ago)
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (1 month ago)
