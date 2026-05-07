@@ -17,8 +17,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.40.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.40.0), today) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.0](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.0), 1 day ago) - The helm chart to deploy Harbor
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.6.0), 2 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
