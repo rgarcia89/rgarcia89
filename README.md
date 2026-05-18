@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.1.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.1.3), 1 day ago) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.0](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.0), 1 week ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
@@ -39,7 +39,7 @@ Welcome to my GitHub profile!
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc. (1 month ago)
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 month ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (1 month ago)
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 month ago)
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
