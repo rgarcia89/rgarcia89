@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.3.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-85.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-85.3.0), 1 day ago) - Prometheus community Helm charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.0](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.0), 2 weeks ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
@@ -30,7 +30,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [edgard/home-ops](https://github.com/edgard/home-ops) - Home infra and lab configuration (3 weeks ago)
+- [edgard/home-ops](https://github.com/edgard/home-ops) - Home infra and lab configuration (4 weeks ago)
 - [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease. (1 month ago)
 - [mirceanton/home-ops](https://github.com/mirceanton/home-ops) - Monorepo to manage my Home Lab k8s cluster. (1 month ago)
 - [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer) -  (1 month ago)
