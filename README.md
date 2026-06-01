@@ -17,8 +17,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.22.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.22.4), 1 day ago) - Prometheus community Helm charts
-- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.4), 4 days ago) - The helm chart to deploy Harbor
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.22.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.22.4), 2 days ago) - Prometheus community Helm charts
+- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.4), 5 days ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
 
