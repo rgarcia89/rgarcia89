@@ -13,7 +13,6 @@ Welcome to my GitHub profile!
 
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor (4 months ago)
 - [rgarcia89/helm-intro](https://github.com/rgarcia89/helm-intro) -  (4 months ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
