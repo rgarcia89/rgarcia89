@@ -28,6 +28,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [backstage/software-templates](https://github.com/backstage/software-templates) - Backstage Software Templates for creating a new software component (today)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals (today)
 - [cloudnative-pg/plugin-barman-cloud](https://github.com/cloudnative-pg/plugin-barman-cloud) - Barman Cloud CNPG-I backup plugin (1 day ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 day ago)
@@ -37,7 +38,6 @@ Welcome to my GitHub profile!
 - [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease. (2 months ago)
 - [mirceanton/home-ops](https://github.com/mirceanton/home-ops) - Monorepo to manage my Home Lab k8s cluster. (2 months ago)
 - [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer) -  (2 months ago)
-- [argoproj-labs/gitops-promoter](https://github.com/argoproj-labs/gitops-promoter) - GitOps Environment Promotion tool that lets you focus on the &#34;what,&#34; not the &#34;how&#34; (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
