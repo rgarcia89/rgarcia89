@@ -28,6 +28,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) - Grafana Community Kubernetes Helm Charts (today)
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (today)
 - [thanos-community/helm-charts](https://github.com/thanos-community/helm-charts) - Community-Driven Thanos Charts 💪 (1 day ago)
 - [backstage/software-templates](https://github.com/backstage/software-templates) - Backstage Software Templates for creating a new software component (2 days ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals (2 days ago)
@@ -36,8 +38,6 @@ Welcome to my GitHub profile!
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 week ago)
 - [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) - seaweedfs kubernetes operator (1 week ago)
 - [edgard/home-ops](https://github.com/edgard/home-ops) - Home infra and lab configuration (1 month ago)
-- [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease. (2 months ago)
-- [mirceanton/home-ops](https://github.com/mirceanton/home-ops) - Monorepo to manage my Home Lab k8s cluster. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
