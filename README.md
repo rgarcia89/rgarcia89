@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.4), 3 weeks ago) - The helm chart to deploy Harbor
+- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.4), 4 weeks ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
 
@@ -28,16 +28,16 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [tuunit/oauth2-proxy-in-100-lines](https://github.com/tuunit/oauth2-proxy-in-100-lines) - A talk about how OAuth2 works and a demo on how to write a minimal OAuth2 Proxy in less than 100 lines of Go (4 days ago)
-- [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) - Grafana Community Kubernetes Helm Charts (5 days ago)
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (5 days ago)
-- [thanos-community/helm-charts](https://github.com/thanos-community/helm-charts) - Community-Driven Thanos Charts 💪 (6 days ago)
+- [tuunit/oauth2-proxy-in-100-lines](https://github.com/tuunit/oauth2-proxy-in-100-lines) - A talk about how OAuth2 works and a demo on how to write a minimal OAuth2 Proxy in less than 100 lines of Go (5 days ago)
+- [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) - Grafana Community Kubernetes Helm Charts (6 days ago)
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (6 days ago)
+- [thanos-community/helm-charts](https://github.com/thanos-community/helm-charts) - Community-Driven Thanos Charts 💪 (1 week ago)
 - [backstage/software-templates](https://github.com/backstage/software-templates) - Backstage Software Templates for creating a new software component (1 week ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals (1 week ago)
 - [cloudnative-pg/plugin-barman-cloud](https://github.com/cloudnative-pg/plugin-barman-cloud) - Barman Cloud CNPG-I backup plugin (1 week ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 week ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 week ago)
-- [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) - seaweedfs kubernetes operator (1 week ago)
+- [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) - seaweedfs kubernetes operator (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
