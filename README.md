@@ -28,7 +28,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [tuunit/oauth2-proxy-in-100-lines](https://github.com/tuunit/oauth2-proxy-in-100-lines) - A talk about how OAuth2 works and a demo on how to write a minimal OAuth2 Proxy in less than 100 lines of Go (1 week ago)
+- [tuunit/oauth2-proxy-in-100-lines](https://github.com/tuunit/oauth2-proxy-in-100-lines) - A talk about how OAuth2 works and a demo on how to write a minimal OAuth2 Proxy in less than 100 lines of Go (2 weeks ago)
 - [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) - Grafana Community Kubernetes Helm Charts (2 weeks ago)
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (2 weeks ago)
 - [thanos-community/helm-charts](https://github.com/thanos-community/helm-charts) - Community-Driven Thanos Charts 💪 (2 weeks ago)
