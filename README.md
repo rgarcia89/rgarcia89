@@ -29,14 +29,14 @@ Welcome to my GitHub profile!
 #### ⭐ Recent Stars
 
 - [tuunit/oauth2-proxy-in-100-lines](https://github.com/tuunit/oauth2-proxy-in-100-lines) - A talk about how OAuth2 works and a demo on how to write a minimal OAuth2 Proxy in less than 100 lines of Go (2 weeks ago)
-- [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) - Grafana Community Kubernetes Helm Charts (2 weeks ago)
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (2 weeks ago)
+- [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) - Grafana Community Kubernetes Helm Charts (3 weeks ago)
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (3 weeks ago)
 - [thanos-community/helm-charts](https://github.com/thanos-community/helm-charts) - Community-Driven Thanos Charts 💪 (3 weeks ago)
 - [backstage/software-templates](https://github.com/backstage/software-templates) - Backstage Software Templates for creating a new software component (3 weeks ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals (3 weeks ago)
 - [cloudnative-pg/plugin-barman-cloud](https://github.com/cloudnative-pg/plugin-barman-cloud) - Barman Cloud CNPG-I backup plugin (3 weeks ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (3 weeks ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (3 weeks ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (4 weeks ago)
 - [seaweedfs/seaweedfs-operator](https://github.com/seaweedfs/seaweedfs-operator) - seaweedfs kubernetes operator (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
