@@ -41,11 +41,11 @@ Welcome to my GitHub profile!
 
 #### 👯 Check out some of my recent followers
 
+- [yumiaura](https://github.com/yumiaura)
 - [ismaildem](https://github.com/ismaildem)
 - [sbreitf1](https://github.com/sbreitf1)
 - [patrick-adams-git](https://github.com/patrick-adams-git)
 - [AudMonte01](https://github.com/AudMonte01)
-- [bludnic](https://github.com/bludnic)
 
 #### 💬 Feedback
 
