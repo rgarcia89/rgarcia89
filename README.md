@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.18.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.18.4), 2 months ago) - The helm chart to deploy Harbor
+- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.2](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.2), today) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
 
@@ -35,7 +35,7 @@ Welcome to my GitHub profile!
 - [thanos-community/helm-charts](https://github.com/thanos-community/helm-charts) - Community-Driven Thanos Charts 💪 (1 month ago)
 - [backstage/software-templates](https://github.com/backstage/software-templates) - Backstage Software Templates for creating a new software component (1 month ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals (1 month ago)
-- [cloudnative-pg/plugin-barman-cloud](https://github.com/cloudnative-pg/plugin-barman-cloud) - Barman Cloud CNPG-I backup plugin (1 month ago)
+- [cloudnative-pg/plugin-barman-cloud](https://github.com/cloudnative-pg/plugin-barman-cloud) - The reference CNPG-I backup/restore plugin for Barman Cloud. (1 month ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (1 month ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 month ago)
 
