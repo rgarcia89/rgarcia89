@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.2](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.2), today) - The helm chart to deploy Harbor
+- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.2](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.2), 1 day ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
 
