@@ -12,11 +12,11 @@ Welcome to my GitHub profile!
 #### 👷 Check out what I'm currently working on
 
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor (6 months ago)
-- [rgarcia89/helm-intro](https://github.com/rgarcia89/helm-intro) -  (6 months ago)
+- [rgarcia89/helm-intro](https://github.com/rgarcia89/helm-intro) -  (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.2](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.2), 3 days ago) - The helm chart to deploy Harbor
+- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.2](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.2), 4 days ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
 
