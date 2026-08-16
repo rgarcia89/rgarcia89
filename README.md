@@ -32,7 +32,7 @@ Welcome to my GitHub profile!
 - [tuunit/oauth2-proxy-in-100-lines](https://github.com/tuunit/oauth2-proxy-in-100-lines) - A talk about how OAuth2 works and a demo on how to write a minimal OAuth2 Proxy in less than 100 lines of Go (1 month ago)
 - [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) - Grafana Community Kubernetes Helm Charts (1 month ago)
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (1 month ago)
-- [thanos-community/helm-charts](https://github.com/thanos-community/helm-charts) - Community-Driven Thanos Charts 💪 (1 month ago)
+- [thanos-community/helm-charts](https://github.com/thanos-community/helm-charts) - Community-Driven Thanos Charts 💪 (2 months ago)
 - [backstage/software-templates](https://github.com/backstage/software-templates) - Backstage Software Templates for creating a new software component (2 months ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals (2 months ago)
 - [cloudnative-pg/plugin-barman-cloud](https://github.com/cloudnative-pg/plugin-barman-cloud) - The reference CNPG-I backup/restore plugin for Barman Cloud. (2 months ago)
