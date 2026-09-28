@@ -28,6 +28,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone) (today)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (1 week ago)
 - [abcdesktopio/abcdesktopio](https://github.com/abcdesktopio/abcdesktopio) - abcdesktop.io project (1 week ago)
 - [iHost-Open-Source-Project/hassio-ihost-sonoff-dongle-flasher](https://github.com/iHost-Open-Source-Project/hassio-ihost-sonoff-dongle-flasher) - SONOFF Dongle Flasher supports online firmware flashing for the iHost MG21 chip and the SONOFF Dongle series (ZBDongle-P, ZBDongle-E, Dongle-M, Dongle-PMG24, Dongle-LMG21 and Dongle-PMG23). (2 months ago)
@@ -37,7 +38,6 @@ Welcome to my GitHub profile!
 - [thanos-community/helm-charts](https://github.com/thanos-community/helm-charts) - Community-Driven Thanos Charts 💪 (3 months ago)
 - [backstage/software-templates](https://github.com/backstage/software-templates) - Backstage Software Templates for creating a new software component (3 months ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals (3 months ago)
-- [cloudnative-pg/plugin-barman-cloud](https://github.com/cloudnative-pg/plugin-barman-cloud) - The reference CNPG-I backup/restore plugin for Barman Cloud. (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
