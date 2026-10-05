@@ -28,7 +28,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone) (6 days ago)
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone) (1 week ago)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (2 weeks ago)
 - [abcdesktopio/abcdesktopio](https://github.com/abcdesktopio/abcdesktopio) - abcdesktop.io project (2 weeks ago)
 - [iHost-Open-Source-Project/hassio-ihost-sonoff-dongle-flasher](https://github.com/iHost-Open-Source-Project/hassio-ihost-sonoff-dongle-flasher) - SONOFF Dongle Flasher supports online firmware flashing for the iHost MG21 chip and the SONOFF Dongle series (ZBDongle-P, ZBDongle-E, Dongle-M, Dongle-PMG24, Dongle-LMG21 and Dongle-PMG23). (2 months ago)
