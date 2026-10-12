@@ -28,6 +28,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (today)
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone) (2 weeks ago)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (3 weeks ago)
 - [abcdesktopio/abcdesktopio](https://github.com/abcdesktopio/abcdesktopio) - abcdesktop.io project (3 weeks ago)
@@ -37,7 +38,6 @@ Welcome to my GitHub profile!
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (3 months ago)
 - [thanos-community/helm-charts](https://github.com/thanos-community/helm-charts) - Community-Driven Thanos Charts 💪 (3 months ago)
 - [backstage/software-templates](https://github.com/backstage/software-templates) - Backstage Software Templates for creating a new software component (3 months ago)
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
