@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.4), 2 days ago) - The helm chart to deploy Harbor
+- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.4), 3 days ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
 
@@ -28,8 +28,8 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (6 days ago)
-- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone) (2 weeks ago)
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 week ago)
+- [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone) (3 weeks ago)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (4 weeks ago)
 - [abcdesktopio/abcdesktopio](https://github.com/abcdesktopio/abcdesktopio) - abcdesktop.io project (4 weeks ago)
 - [iHost-Open-Source-Project/hassio-ihost-sonoff-dongle-flasher](https://github.com/iHost-Open-Source-Project/hassio-ihost-sonoff-dongle-flasher) - SONOFF Dongle Flasher supports online firmware flashing for the iHost MG21 chip and the SONOFF Dongle series (ZBDongle-P, ZBDongle-E, Dongle-M, Dongle-PMG24, Dongle-LMG21 and Dongle-PMG23). (2 months ago)
