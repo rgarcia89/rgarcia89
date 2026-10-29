@@ -20,11 +20,11 @@ Welcome to my GitHub profile!
 
 #### 🔨 My recent Pull Requests
 
+- [[pgadmin4] feat: add Gateway API ListenerSet support](https://github.com/rowanruseler/helm-charts/pull/442) on [rowanruseler/helm-charts](https://github.com/rowanruseler/helm-charts) (today)
+- [[loki] add gateway API ListenerSet support for routes in Loki chart](https://github.com/grafana-community/helm-charts/pull/946) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [[kube-prometheus-stack] Make namespace selector operator configurable](https://github.com/prometheus-community/helm-charts/pull/5742) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
 - [Upgrade kube-rbac-proxy to v0.16.0](https://github.com/hashicorp/vault-secrets-operator/pull/881) on [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) (2 years ago)
 - [Get latest version by tag if no release exists](https://github.com/prometheus-operator/kube-prometheus/pull/2435) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (2 years ago)
-- [Add condition to disable nginx even if not exposing via ingress](https://github.com/goharbor/harbor-helm/pull/1687) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (2 years ago)
-- [Add securityContext definitions on container level](https://github.com/goharbor/harbor-helm/pull/1673) on [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) (2 years ago)
 
 #### ⭐ Recent Stars
 
