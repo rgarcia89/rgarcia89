@@ -20,9 +20,9 @@ Welcome to my GitHub profile!
 
 #### 🔨 My recent Pull Requests
 
-- [fix(argo-cd): do not derive HTTPRoute hostnames from ListenerSet](https://github.com/argoproj/argo-helm/pull/4183) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (4 days ago)
-- [[pgadmin4] feat: add Gateway API ListenerSet support](https://github.com/rowanruseler/helm-charts/pull/442) on [rowanruseler/helm-charts](https://github.com/rowanruseler/helm-charts) (5 days ago)
-- [[loki] add gateway API ListenerSet support for routes in Loki chart](https://github.com/grafana-community/helm-charts/pull/946) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (5 days ago)
+- [fix(argo-cd): do not derive HTTPRoute hostnames from ListenerSet](https://github.com/argoproj/argo-helm/pull/4183) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (5 days ago)
+- [[pgadmin4] feat: add Gateway API ListenerSet support](https://github.com/rowanruseler/helm-charts/pull/442) on [rowanruseler/helm-charts](https://github.com/rowanruseler/helm-charts) (6 days ago)
+- [[loki] add gateway API ListenerSet support for routes in Loki chart](https://github.com/grafana-community/helm-charts/pull/946) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (6 days ago)
 - [[kube-prometheus-stack] Make namespace selector operator configurable](https://github.com/prometheus-community/helm-charts/pull/5742) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
 - [Upgrade kube-rbac-proxy to v0.16.0](https://github.com/hashicorp/vault-secrets-operator/pull/881) on [hashicorp/vault-secrets-operator](https://github.com/hashicorp/vault-secrets-operator) (2 years ago)
 
