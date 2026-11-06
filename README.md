@@ -11,18 +11,18 @@ Welcome to my GitHub profile!
 
 #### 👷 Check out what I'm currently working on
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 day ago)
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) - The helm chart to deploy Harbor (9 months ago)
 - [rgarcia89/helm-intro](https://github.com/rgarcia89/helm-intro) -  (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.14.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.14.0), today) - ArgoProj Helm Charts
-- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.4), 2 weeks ago) - The helm chart to deploy Harbor
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.14.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.14.0), 1 day ago) - ArgoProj Helm Charts
+- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.4), 3 weeks ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
 
-- [fix(argo-cd): do not derive HTTPRoute hostnames from ListenerSet](https://github.com/argoproj/argo-helm/pull/4183) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (6 days ago)
+- [fix(argo-cd): do not derive HTTPRoute hostnames from ListenerSet](https://github.com/argoproj/argo-helm/pull/4183) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
 - [[pgadmin4] feat: add Gateway API ListenerSet support](https://github.com/rowanruseler/helm-charts/pull/442) on [rowanruseler/helm-charts](https://github.com/rowanruseler/helm-charts) (1 week ago)
 - [[loki] add gateway API ListenerSet support for routes in Loki chart](https://github.com/grafana-community/helm-charts/pull/946) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Make namespace selector operator configurable](https://github.com/prometheus-community/helm-charts/pull/5742) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
