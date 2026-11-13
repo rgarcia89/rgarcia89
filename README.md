@@ -17,12 +17,12 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.0), 1 day ago) - ArgoProj Helm Charts
-- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.4), 3 weeks ago) - The helm chart to deploy Harbor
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.0), 2 days ago) - ArgoProj Helm Charts
+- [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.4), 4 weeks ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
 
-- [fix(argo-cd): do not derive HTTPRoute hostnames from ListenerSet](https://github.com/argoproj/argo-helm/pull/4183) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
+- [fix(argo-cd): do not derive HTTPRoute hostnames from ListenerSet](https://github.com/argoproj/argo-helm/pull/4183) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (2 weeks ago)
 - [[pgadmin4] feat: add Gateway API ListenerSet support](https://github.com/rowanruseler/helm-charts/pull/442) on [rowanruseler/helm-charts](https://github.com/rowanruseler/helm-charts) (2 weeks ago)
 - [[loki] add gateway API ListenerSet support for routes in Loki chart](https://github.com/grafana-community/helm-charts/pull/946) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] Make namespace selector operator configurable](https://github.com/prometheus-community/helm-charts/pull/5742) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 year ago)
@@ -30,7 +30,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
-- [wemove/read2burn](https://github.com/wemove/read2burn) - Easy-to-use tool for sharing secrets more safely. (today)
+- [wemove/read2burn](https://github.com/wemove/read2burn) - Easy-to-use tool for sharing secrets more safely. (1 day ago)
 - [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid, Portainer, Home Assistant, YunoHost, Proxmox. No tracking, MIT. (2 weeks ago)
 - [paulip114/sre-practice-skills](https://github.com/paulip114/sre-practice-skills) - SRE Practice Skills for Claude Code (3 weeks ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 month ago)
