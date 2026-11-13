@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.0), 2 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.5.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.5.0), today) - ArgoProj Helm Charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.4), 4 weeks ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
