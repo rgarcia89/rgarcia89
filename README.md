@@ -32,6 +32,7 @@ Welcome to my GitHub profile!
 
 #### ⭐ Recent Stars
 
+- [isindir/sops-secrets-operator](https://github.com/isindir/sops-secrets-operator) - Kubernetes SOPS secrets operator (today)
 - [storytold/wordcraft](https://github.com/storytold/wordcraft) - WordCraft: an open-source, clean-room word processor in pure Rust (1 day ago)
 - [wemove/read2burn](https://github.com/wemove/read2burn) - Easy-to-use tool for sharing secrets more safely. (3 days ago)
 - [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid, Portainer, Home Assistant, YunoHost, Proxmox. No tracking, MIT. (3 weeks ago)
@@ -41,7 +42,6 @@ Welcome to my GitHub profile!
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (1 month ago)
 - [abcdesktopio/abcdesktopio](https://github.com/abcdesktopio/abcdesktopio) - abcdesktop.io project (1 month ago)
 - [iHost-Open-Source-Project/hassio-ihost-sonoff-dongle-flasher](https://github.com/iHost-Open-Source-Project/hassio-ihost-sonoff-dongle-flasher) - SONOFF Dongle Flasher supports online firmware flashing for the iHost MG21 chip and the SONOFF Dongle series (ZBDongle-P, ZBDongle-E, Dongle-M, Dongle-PMG24, Dongle-LMG21 and Dongle-PMG23). (3 months ago)
-- [tuunit/oauth2-proxy-in-100-lines](https://github.com/tuunit/oauth2-proxy-in-100-lines) - A talk about how OAuth2 works and a demo on how to write a minimal OAuth2 Proxy in less than 100 lines of Go (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
