@@ -18,8 +18,8 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.1), today) - ArgoProj Helm Charts
 - [rowanruseler/helm-charts](https://github.com/rowanruseler/helm-charts) ([pgadmin4-1.72.0](https://github.com/rowanruseler/helm-charts/releases/tag/pgadmin4-1.72.0), 5 days ago) -  Curated applications for Kubernetes
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-1.5.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-1.5.0), 5 days ago) - ArgoProj Helm Charts
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.4), 1 month ago) - The helm chart to deploy Harbor
 
 #### 🔨 My recent Pull Requests
