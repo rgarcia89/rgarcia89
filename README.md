@@ -18,7 +18,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.2), 3 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.2), 4 days ago) - ArgoProj Helm Charts
 - [rowanruseler/helm-charts](https://github.com/rowanruseler/helm-charts) ([pgadmin4-1.72.0](https://github.com/rowanruseler/helm-charts/releases/tag/pgadmin4-1.72.0), 1 week ago) -  Curated applications for Kubernetes
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.4), 1 month ago) - The helm chart to deploy Harbor
 
@@ -35,7 +35,7 @@ Welcome to my GitHub profile!
 - [isindir/sops-secrets-operator](https://github.com/isindir/sops-secrets-operator) - Kubernetes SOPS secrets operator (1 week ago)
 - [storytold/wordcraft](https://github.com/storytold/wordcraft) - WordCraft: an open-source, clean-room word processor in pure Rust (1 week ago)
 - [wemove/read2burn](https://github.com/wemove/read2burn) - Easy-to-use tool for sharing secrets more safely. (1 week ago)
-- [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid, Portainer, Home Assistant, YunoHost, Proxmox. No tracking, MIT. (4 weeks ago)
+- [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi) - One home instead of many subscriptions. Yuvomi is a self-hosted family planner: tasks, calendar, budget, meals, shopping, health and more in one PWA on your own server or NAS. Docker, Podman, TrueNAS, Umbrel, Unraid, Portainer, Home Assistant, YunoHost, Proxmox. No tracking, MIT. (1 month ago)
 - [paulip114/sre-practice-skills](https://github.com/paulip114/sre-practice-skills) - SRE Practice Skills for Claude Code (1 month ago)
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries. (1 month ago)
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone) (1 month ago)
