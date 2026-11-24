@@ -18,7 +18,7 @@ Welcome to my GitHub profile!
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.3), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-10.18.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-10.18.3), 1 day ago) - ArgoProj Helm Charts
 - [rowanruseler/helm-charts](https://github.com/rowanruseler/helm-charts) ([pgadmin4-1.72.0](https://github.com/rowanruseler/helm-charts/releases/tag/pgadmin4-1.72.0), 1 week ago) -  Curated applications for Kubernetes
 - [goharbor/harbor-helm](https://github.com/goharbor/harbor-helm) ([v1.19.4](https://github.com/goharbor/harbor-helm/releases/tag/v1.19.4), 1 month ago) - The helm chart to deploy Harbor
 
@@ -41,7 +41,7 @@ Welcome to my GitHub profile!
 - [we-promise/sure](https://github.com/we-promise/sure) - The personal finance app for everyone (by everyone) (1 month ago)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (2 months ago)
 - [abcdesktopio/abcdesktopio](https://github.com/abcdesktopio/abcdesktopio) - abcdesktop.io project (2 months ago)
-- [iHost-Open-Source-Project/hassio-ihost-sonoff-dongle-flasher](https://github.com/iHost-Open-Source-Project/hassio-ihost-sonoff-dongle-flasher) - SONOFF Dongle Flasher supports online firmware flashing for the iHost MG21 chip and the SONOFF Dongle series (ZBDongle-P, ZBDongle-E, Dongle-M, Dongle-PMG24, Dongle-LMG21 and Dongle-PMG23). (3 months ago)
+- [iHost-Open-Source-Project/hassio-ihost-sonoff-dongle-flasher](https://github.com/iHost-Open-Source-Project/hassio-ihost-sonoff-dongle-flasher) - SONOFF Dongle Flasher supports online firmware flashing for the iHost MG21 chip and the SONOFF Dongle series (ZBDongle-P, ZBDongle-E, Dongle-M, Dongle-PMG24, Dongle-LMG21 and Dongle-PMG23). (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
